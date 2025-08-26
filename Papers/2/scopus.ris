@@ -1,0 +1,409 @@
+﻿TY  - JOUR
+AU  - Kumar, A.
+AU  - Singh, J.P.
+AU  - Paygude, P.
+AU  - Daimary, R.
+AU  - Prasad, S.
+TI  - Advanced comparative analysis of machine learning algorithms for early Parkinson's disease detection using vocal biomarkers
+PY  - 2025
+T2  - Digital Health
+VL  - 11
+C7  - 20552076251342878
+DO  - 10.1177/20552076251342878
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007603006&doi=10.1177%2f20552076251342878&partnerID=40&md5=72f9a894594898da5c45ec760d62d392
+AD  - Department of Computer Science & Engineering, Manipal University, Rajasthan, Jaipur, India
+AD  - Department of Information Technology, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Maharashtra, Pune, India
+AD  - School of Media & Communication, Manipal University, Rajasthan, Jaipur, India
+AD  - Department of Mining Engineering, AKS University, MP, Satna, India
+AB  - Objective: To investigate the potential of voice analysis—specifically sustained vowel phonation—as a non-invasive, cost-effective diagnostic method for early detection of Parkinson's disease (PD) using machine learning techniques. Methods: A publicly available dataset from the University of California, Irvine (UCI) repository, comprising 252 voice recordings (188 from PD patients and 64 from healthy individuals), was analyzed. Machine learning classifiers, including k-nearest neighbors (KNN), AdaBoost, and artificial neural networks (ANNs), were trained and tested on the dataset. Model evaluation was conducted using accuracy, precision, recall, F1 score, and area under the receiver operating characteristic curve. Kernel density estimation was applied to visualize and interpret classifier performance. Results: Among the classifiers, KNN demonstrated the best performance with an accuracy of 98.52% and a mean accuracy of 97.33%. ANN and AdaBoost achieved mean accuracies of 93.15% and 91.77%, respectively. All models performed well across standard evaluation metrics, indicating strong discriminative ability for detecting PD from voice data. Conclusion: The study confirms the feasibility of using sustained vowel phonation and machine learning for early PD diagnosis. The KNN classifier, in particular, shows excellent diagnostic accuracy. These findings support the integration of voice-based machine learning tools into clinical workflows, potentially enhancing early detection and management of PD. © The Author(s) 2025.
+KW  - artificial neural networks
+KW  - k-nearest neighbors
+KW  - kernel density estimation
+KW  - machine learning
+KW  - Parkinson's disease
+PB  - SAGE Publications Inc.
+SN  - 20552076 (ISSN)
+LA  - English
+J2  - Digit. Health
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 1; Correspondence Address: A. Kumar; Department of Computer Science & Engineering, Manipal University Jaipur, Jaipur, Jaipur-Ajmer Express Highway, Dehmi Kalan, Near GVK Toll Plaza, Rajasthan, 303007, India; email: ajay3789@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Lilhore, U.K.
+AU  - Dalal, S.
+AU  - Faujdar, N.
+AU  - Margala, M.
+AU  - Chakrabarti, P.
+AU  - Chakrabarti, T.
+AU  - Simaiya, S.
+AU  - Kumar, P.
+AU  - Thangaraju, P.
+AU  - Velmurugan, H.
+TI  - Hybrid CNN-LSTM model with efficient hyperparameter tuning for prediction of Parkinson’s disease
+PY  - 2023
+T2  - Scientific Reports
+VL  - 13
+IS  - 1
+C7  - 14605
+DO  - 10.1038/s41598-023-41314-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169756863&doi=10.1038%2fs41598-023-41314-y&partnerID=40&md5=5136f5113aadeeb8a1585137fee1ba40
+AD  - Department of Computer Science and Engineering, Chandigarh University, Punjab, Chandigarh, India
+AD  - Amity School of Engineering and Technology, Amity University Haryana, Gurugram, India
+AD  - Department of Computer Engineering and Application, GLA University, Uttar Pradesh, Mathura, India
+AD  - School of Computing and Informatics, University of Louisiana at Lafayette, Lafayette, United States
+AD  - Department of Computer Science and Engineering, Sir Padampat Singhania University, Rajasthan, Udaipur, 313601, India
+AD  - Sir Padampat Singhania University, Rajasthan, Udaipur, India
+AD  - Apex Institute of Technology, Department of Computer Science and Engineering, Chandigarh University, Punjab, Mohali, India
+AD  - College of Computing Sciences & IT, Teerthanker Mahaveer University, Uttar Pradesh, Moradabad, India
+AD  - Department of Pharmacology, All India Institute of Medical Sciences, Chhattisgarh, Raipur, India
+AB  - The patients’ vocal Parkinson’s disease (PD) changes could be identified early on, allowing for management before physically incapacitating symptoms appear. In this work, static as well as dynamic speech characteristics that are relevant to PD identification are examined. Speech changes or communication issues are among the challenges that Parkinson’s individuals may encounter. As a result, avoiding the potential consequences of speech difficulties brought on by the condition depends on getting the appropriate diagnosis early. PD patients’ speech signals change significantly from those of healthy individuals. This research presents a hybrid model utilizing improved speech signals with dynamic feature breakdown using CNN and LSTM. The proposed hybrid model employs a new, pre-trained CNN with LSTM to recognize PD in linguistic features utilizing Mel-spectrograms derived from normalized voice signal and dynamic mode decomposition. The proposed Hybrid model works in various phases, which include Noise removal, extraction of Mel-spectrograms, feature extraction using pre-trained CNN model ResNet-50, and the final stage is applied for classification. An experimental analysis was performed using the PC-GITA disease dataset. The proposed hybrid model is compared with traditional NN and well-known machine learning-based CART and SVM & XGBoost models. The accuracy level achieved in Neural Network, CART, SVM, and XGBoost models is 72.69%, 84.21%, 73.51%, and 90.81%. The results show that under these four machine approaches of tenfold cross-validation and dataset splitting without samples overlapping one individual, the proposed hybrid model achieves an accuracy of 93.51%, significantly outperforming traditional ML models utilizing static features in detecting Parkinson’s disease. © 2023, Springer Nature Limited.
+KW  - Humans
+KW  - Linguistics
+KW  - Machine Learning
+KW  - Neural Networks, Computer
+KW  - Parkinson Disease
+KW  - Research Design
+KW  - artificial neural network
+KW  - human
+KW  - linguistics
+KW  - machine learning
+KW  - methodology
+KW  - Parkinson disease
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 37669970
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 58; Correspondence Address: P. Thangaraju; Department of Pharmacology, All India Institute of Medical Sciences, Raipur, Chhattisgarh, India; email: drpugal23@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Malekroodi, H.S.
+AU  - Madusanka, N.
+AU  - Lee, B.-I.
+AU  - Yi, M.
+TI  - Leveraging Deep Learning for Fine-Grained Categorization of Parkinson’s Disease Progression Levels through Analysis of Vocal Acoustic Patterns
+PY  - 2024
+T2  - Bioengineering
+VL  - 11
+IS  - 3
+C7  - 295
+DO  - 10.3390/bioengineering11030295
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188687152&doi=10.3390%2fbioengineering11030295&partnerID=40&md5=0748f28864b4840c713c9dd2a84de7be
+AD  - Industry 4.0 Convergence Bionics Engineering, Pukyong National University, Busan, 48513, South Korea
+AD  - Digital of Healthcare Research Center, Institute of Information Technology and Convergence, Pukyong National University, Busan, 48513, South Korea
+AD  - Division of Smart Healthcare, Pukyong National University, Busan, 48513, South Korea
+AB  - Speech impairments often emerge as one of the primary indicators of Parkinson’s disease (PD), albeit not readily apparent in its early stages. While previous studies focused predominantly on binary PD detection, this research explored the use of deep learning models to automatically classify sustained vowel recordings into healthy controls, mild PD, or severe PD based on motor symptom severity scores. Popular convolutional neural network (CNN) architectures, VGG and ResNet, as well as vision transformers, Swin, were fine-tuned on log mel spectrogram image representations of the segmented voice data. Furthermore, the research investigated the effects of audio segment lengths and specific vowel sounds on the performance of these models. The findings indicated that implementing longer segments yielded better performance. The models showed strong capability in distinguishing PD from healthy subjects, achieving over 95% precision. However, reliably discriminating between mild and severe PD cases remained challenging. The VGG16 achieved the best overall classification performance with 91.8% accuracy and the largest area under the ROC curve. Furthermore, focusing analysis on the vowel /u/ could further improve accuracy to 96%. Applying visualization techniques like Grad-CAM also highlighted how CNN models focused on localized spectrogram regions while transformers attended to more widespread patterns. Overall, this work showed the potential of deep learning for non-invasive screening and monitoring of PD progression from voice recordings, but larger multi-class labeled datasets are needed to further improve severity classification. © 2024 by the authors.
+KW  - deep learning
+KW  - mel spectrogram
+KW  - Parkinson’s disease (PD)
+KW  - speech analysis
+KW  - transfer learning
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 23065354 (ISSN)
+LA  - English
+J2  - Bioeng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 14; Correspondence Address: B.-I. Lee; Industry 4.0 Convergence Bionics Engineering,Pukyong National University, Busan, 48513, South Korea; email: bilee@pknu.ac.kr; M. Yi; Industry 4.0 Convergence Bionics Engineering, Pukyong National University, Busan, 48513, South Korea; email: myunggi@pknu.ac.kr
+ER  -
+
+TY  - JOUR
+AU  - Islam, M.A.
+AU  - Hasan Majumder, M.Z.
+AU  - Hussein, M.A.
+AU  - Hossain, K.M.
+AU  - Miah, M.S.
+TI  - A review of machine learning and deep learning algorithms for Parkinson's disease detection using handwriting and voice datasets
+PY  - 2024
+T2  - Heliyon
+VL  - 10
+IS  - 3
+C7  - e25469
+DO  - 10.1016/j.heliyon.2024.e25469
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184749566&doi=10.1016%2fj.heliyon.2024.e25469&partnerID=40&md5=6e61cbcce26babbae497c30923da01ab
+AD  - Department of Robotics and Mechatronics Engineering, University of Dhaka, Nilkhet Rd, Dhaka, 1000, Bangladesh
+AD  - Institute of Electronics, Bangladesh Atomic Energy Commission, Dhaka, 1207, Bangladesh
+AD  - Department of Electrical and Electronic Engineering, University of Dhaka, Dhaka, 1000, Bangladesh
+AD  - Moulvibazar Polytechnic Institute, Bangladesh
+AB  - Parkinson's Disease (PD) is a prevalent neurodegenerative disorder with significant clinical implications. Early and accurate diagnosis of PD is crucial for timely intervention and personalized treatment. In recent years, Machine Learning (ML) and Deep Learning (DL) techniques have emerged as promis-ing tools for improving PD diagnosis. This review paper presents a detailed analysis of the current state of ML and DL-based PD diagnosis, focusing on voice, handwriting, and wave spiral datasets. The study also evaluates the effectiveness of various ML and DL algorithms, including classifiers, on these datasets and highlights their potential in enhancing diagnostic accuracy and aiding clinical decision-making. Additionally, the paper explores the identifi-cation of biomarkers using these techniques, offering insights into improving the diagnostic process. The discussion encompasses different data formats and commonly employed ML and DL methods in PD diagnosis, providing a comprehensive overview of the field. This review serves as a roadmap for future research, guiding the development of ML and DL-based tools for PD detection. It is expected to benefit both the scientific community and medical practitioners by advancing our understanding of PD diagnosis and ultimately improving patient outcomes. © 2024 The Authors
+KW  - Deep learning (DL)
+KW  - Diagnosis
+KW  - Disease prediction
+KW  - Machine learning (ML)
+KW  - Parkinson's disease (PD)
+PB  - Elsevier Ltd
+SN  - 24058440 (ISSN)
+LA  - English
+J2  - Heliyon
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 41; Correspondence Address: M.A. Islam; Department of Robotics and Mechatronics Engineering, University of Dhaka, Dhaka, Nilkhet Rd, 1000, Bangladesh; email: arif.rme@du.ac.bd
+ER  -
+
+TY  - JOUR
+AU  - Dudek, M.
+AU  - Hemmerling, D.
+AU  - Kaczmarska, M.
+AU  - Stepien, J.
+AU  - Daniol, M.
+AU  - Wodzinski, M.
+AU  - Wojcik-Pedziwiatr, M.
+TI  - Analysis of Voice, Speech, and Language Biomarkers of Parkinson’s Disease Collected in a Mixed Reality Setting
+PY  - 2025
+T2  - Sensors
+VL  - 25
+IS  - 8
+C7  - 2405
+DO  - 10.3390/s25082405
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003713181&doi=10.3390%2fs25082405&partnerID=40&md5=516e4edcba4cda5eced6f4fc6fdd4a21
+AD  - Department of Measurement and Electronics, AGH University of Krakow, Krakow, 30-059, Poland
+AD  - Department of Neurology, Andrzej Frycz Modrzewski Krakow University, Krakow, 30-705, Poland
+AB  - This study explores an innovative approach to early Parkinson’s disease (PD) detection by analyzing speech data collected using a mixed reality (MR) system. A total of 57 Polish participants, including PD patients and healthy controls, performed five speech tasks while using an MR head-mounted display (HMD). Speech data were recorded and analyzed to extract acoustic and linguistic features, which were then evaluated using machine learning models, including logistic regression, support vector machines (SVMs), random forests, AdaBoost, and XGBoost. The XGBoost model achieved the best performance, with an F1-score of 0.90 ± 0.05 in the story-retelling task. Key features such as MFCCs (mel-frequency cepstral coefficients), spectral characteristics, RASTA-filtered auditory spectrum, and local shimmer were identified as significant in detecting PD-related speech alterations. Additionally, state-of-the-art deep learning models (wav2vec2, HuBERT, and WavLM) were fine-tuned for PD detection. HuBERT achieved the highest performance, with an F1-score of 0.94 ± 0.04 in the diadochokinetic task, demonstrating the potential of deep learning to capture complex speech patterns linked to neurodegenerative diseases. This study highlights the effectiveness of combining MR technology for speech data collection with advanced machine learning (ML) and deep learning (DL) techniques, offering a non-invasive and high-precision approach to PD diagnosis. The findings hold promise for broader clinical applications, advancing the diagnostic landscape for neurodegenerative disorders. © 2025 by the authors.
+KW  - explainable artificial intelligence
+KW  - large language models
+KW  - mixed reality
+KW  - Parkinson’s disease
+KW  - remote patient monitoring
+KW  - voice biomarkers
+KW  - Aged
+KW  - Biomarkers
+KW  - Deep Learning
+KW  - Female
+KW  - Humans
+KW  - Language
+KW  - Machine Learning
+KW  - Male
+KW  - Middle Aged
+KW  - Parkinson Disease
+KW  - Speech
+KW  - Support Vector Machine
+KW  - Voice
+KW  - Logistic regression
+KW  - Neurodegenerative diseases
+KW  - Noninvasive medical procedures
+KW  - Support vector machines
+KW  - biological marker
+KW  - Disease detection
+KW  - Explainable artificial intelligence
+KW  - F1 scores
+KW  - Language model
+KW  - Large language model
+KW  - Mixed reality
+KW  - Parkinson’s disease
+KW  - Performance
+KW  - Speech data
+KW  - Voice biomarker
+KW  - aged
+KW  - deep learning
+KW  - diagnosis
+KW  - female
+KW  - human
+KW  - language
+KW  - machine learning
+KW  - male
+KW  - middle aged
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - physiology
+KW  - speech
+KW  - support vector machine
+KW  - voice
+KW  - Deep learning
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 14248220 (ISSN)
+C2  - 40285095
+LA  - English
+J2  - Sensors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: M. Dudek; Department of Measurement and Electronics, AGH University of Krakow, Krakow, 30-059, Poland; email: daniol@agh.edu.pl
+ER  -
+
+TY  - JOUR
+AU  - Rahmatallah, Y.
+AU  - Kemp, A.S.
+AU  - Iyer, A.
+AU  - Pillai, L.
+AU  - Larson-Prior, L.J.
+AU  - Virmani, T.
+AU  - Prior, F.
+TI  - Pre-trained convolutional neural networks identify Parkinson’s disease from spectrogram images of voice samples
+PY  - 2025
+T2  - Scientific Reports
+VL  - 15
+IS  - 1
+C7  - 7337
+DO  - 10.1038/s41598-025-92105-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85219604925&doi=10.1038%2fs41598-025-92105-6&partnerID=40&md5=048df64f021dbc8996d10c3c9e7f4332
+AD  - Biomedical Informatics, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AD  - Georgia Institute of Technology, Atlanta, 30332, United States
+AD  - Neurology, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AD  - Neuroscience, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AB  - Machine learning approaches including deep learning models have shown promising performance in the automatic detection of Parkinson’s disease. These approaches rely on different types of data with voice recordings being the most used due to the convenient and non-invasive nature of data acquisition. Our group has successfully developed a novel approach that uses convolutional neural network with transfer learning to analyze spectrogram images of the sustained vowel /a/ to identify people with Parkinson’s disease. We tested this approach by collecting a dataset of voice recordings via analog telephone lines, which support limited bandwidth. The convolutional neural network with transfer learning approach showed superior performance against conventional machine learning methods that collapse measurements across time to generate feature vectors. This study builds upon our prior results and presents two novel contributions: First, we tested the performance of our approach on a larger voice dataset recorded using smartphones with wide bandwidth. Our results show comparable performance between two datasets generated using different recording platforms despite the differences in most important features resulting from the limited bandwidth of analog telephonic lines. Second, we compared the classification performance achieved using linear-scale and mel-scale spectrogram images and showed a small but statistically significant gain using mel-scale spectrograms. © The Author(s) 2025.
+KW  - Aged
+KW  - Deep Learning
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Neural Networks, Computer
+KW  - Parkinson Disease
+KW  - Sound Spectrography
+KW  - Voice
+KW  - aged
+KW  - artificial neural network
+KW  - deep learning
+KW  - diagnosis
+KW  - female
+KW  - human
+KW  - male
+KW  - middle aged
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - physiology
+KW  - procedures
+KW  - sound detection
+KW  - voice
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 40025201
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: Y. Rahmatallah; Biomedical Informatics, University of Arkansas for Medical Sciences, Little Rock, 72205, United States; email: YRahmatallah@uams.edu
+ER  -
+
+TY  - JOUR
+AU  - Mondol, S.I.M.M.R.
+AU  - Kim, R.
+AU  - Lee, S.
+TI  - Hybrid Machine Learning Framework for Multistage Parkinson’s Disease Classification Using Acoustic Features of Sustained Korean Vowels
+PY  - 2023
+T2  - Bioengineering
+VL  - 10
+IS  - 8
+C7  - 984
+DO  - 10.3390/bioengineering10080984
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168872874&doi=10.3390%2fbioengineering10080984&partnerID=40&md5=c46c8fc0eab411b4b3d129c8ef9f9f99
+AD  - Department of Electrical and Computer Engineering, Inha University, Incheon, 22212, South Korea
+AD  - Department of Neurology, Inha University Hospital, Inha University College of Medicine, Incheon, 22212, South Korea
+AB  - Recent research has achieved a great classification rate for separating healthy people from those with Parkinson’s disease (PD) using speech and the voice. However, these studies have primarily treated early and advanced stages of PD as equal entities, neglecting the distinctive speech impairments and other symptoms that vary across the different stages of the disease. To address this limitation, and improve diagnostic precision, this study assesses the selected acoustic features of dysphonia, as they relate to PD and the Hoehn and Yahr stages, by combining various preprocessing techniques and multiple classification algorithms, to create a comprehensive and robust solution for classification tasks. The dysphonia features extracted from the three sustained Korean vowels /아/(a), /이/(i), and /우/(u) exhibit diversity and strong correlations. To address this issue, the analysis of variance F-Value feature selection classifier from scikit-learn was employed, to identify the topmost relevant features. Additionally, to overcome the class imbalance problem, the synthetic minority over-sampling technique was utilized. To ensure fair comparisons, and mitigate the influence of individual classifiers, four commonly used machine learning classifiers, namely random forest (RF), support vector machine (SVM), k-nearest neighbor (kNN), and multi-layer perceptron (MLP), were employed. This approach enables a comprehensive evaluation of the feature extraction methods, and minimizes the variance in the final classification models. The proposed hybrid machine learning pipeline using the acoustic features of sustained vowels efficiently detects the early and mid-advanced stages of PD with a detection accuracy of 95.48%, and with a detection accuracy of 86.62% for the 4-stage, and a detection accuracy of 89.48% for the 3-stage classification of PD. This study successfully demonstrates the significance of utilizing the diverse acoustic features of dysphonia in the classification of PD and its stages. © 2023 by the authors.
+KW  - dysphonia features
+KW  - machine learning classifiers
+KW  - multistage Parkinson’s disease
+KW  - voice biomarkers
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 23065354 (ISSN)
+LA  - English
+J2  - Bioeng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 6; Correspondence Address: S. Lee; Department of Electrical and Computer Engineering, Inha University, Incheon, 22212, South Korea; email: sanglee@inha.ac.kr; R. Kim; Department of Neurology, Inha University Hospital, Inha University College of Medicine, Incheon, 22212, South Korea; email: arkrk86@inha.ac.kr
+ER  -
+
+TY  - JOUR
+AU  - Neto, O.P.
+TI  - Harnessing Voice Analysis and Machine Learning for Early Diagnosis of Parkinson's Disease: A Comparative Study Across Three Datasets
+PY  - 2024
+T2  - Journal of Voice
+DO  - 10.1016/j.jvoice.2024.04.020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192859266&doi=10.1016%2fj.jvoice.2024.04.020&partnerID=40&md5=5ea3f581cef889c79e4a1f889a0149ef
+AD  - Center of Innovation, Technology and Education (CITE) at Anhembi Morumbi University – Anima Institute, São Paulo, São José dos Campos, Brazil
+AD  - Arena235 Research Lab, São Paulo, São José dos Campos, Brazil
+AB  - Objective: This study evaluates the efficacy of voice analysis combined with machine learning (ML) techniques in enabling the diagnosis of Parkinson's disease (PD). Methods: Voice data, phonation of the vowel “a,” from three distinct datasets (two from the University of California Irvine ML Repository and one from figshare) for 432 participants (278 PD patients) were analyzed. We employed four ML models—Artificial Neural Networks, Random Forest, Gradient Boosting (GB), and Support Vector Machine (SVM)—alongside two ensemble methods (soft voting classifier—Ensemble Voting Classifier and stacking method—Ensemble Stacking Model (ESM)). The models underwent 50 iterations of evaluation, involving various data splits and 10-fold cross-validation. Comparative analysis was done using one-way Analysis of Variance followed by Bonferroni posthoc corrections. Results: The ESM, SVM, and GB models emerged as the top performers, demonstrating superior performance across metrics, including accuracy, sensitivity, specificity, precision, F1 score, and area under the receiver operating characteristic curve (ROC AUC). Despite data heterogeneity and variable selection limitations, the models showed high values for all metrics. Conclusions: ML integration with voice analysis, mainly through ESM, SVM, and GB, is promising for early PD diagnosis. Using multi-source data and a large sample size enhances our findings' validity, reliability, and generalizability. Significance: Integrating advanced ML techniques with voice analysis demonstrates substantial potential for improving early PD detection, offering valuable tools for speech-language pathologists (SLPs). These findings provide clinically relevant insights that can be applied within the scope of SLP practice to refine diagnostic processes and facilitate early intervention. © 2024 The Voice Foundation
+KW  - Artificial neural networks
+KW  - Early diagnosis
+KW  - Machine learning
+KW  - Parkinson's disease (PD)
+KW  - Voice analysis
+PB  - Elsevier Inc.
+SN  - 08921997 (ISSN)
+LA  - English
+J2  - J. Voice
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 3; Correspondence Address: O.P. Neto; São José dos Campos, Estrada Dr. Altino Bondensan, 500, Eugênio de Melo, SP, 12247-016, Brazil; email: osmarpintoneto@hotmail.com; CODEN: JOVOE
+ER  -
+
+TY  - JOUR
+AU  - Islam, R.
+AU  - Tarique, M.
+TI  - Escalate Prognosis of Parkinson’s Disease Employing Wavelet Features and Artificial Intelligence from Vowel Phonation
+PY  - 2025
+T2  - BioMedInformatics
+VL  - 5
+IS  - 2
+C7  - 23
+DO  - 10.3390/biomedinformatics5020023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105009148734&doi=10.3390%2fbiomedinformatics5020023&partnerID=40&md5=12435a541e5e54afe06276ad430d06a3
+AD  - Department of Electrical and Computer Engineering, University of Fujairah, Fujairah P.O. Box 2202, United Arab Emirates
+AD  - Department of Electrical and Computer Engineering, University of Windsor, Windsor, N9B 3P4, ON, Canada
+AB  - Background: This work presents an artificial intelligence-based algorithm for detecting Parkinson’s disease (PD) from voice signals. The detection of PD at pre-symptomatic stages is imperative to slow disease progression. Speech signal processing-based PD detection can play a crucial role here, as it has been reported in the literature that PD affects the voice quality of patients at an early stage. Hence, speech samples can be used as biomarkers of PD, provided that suitable voice features and artificial intelligence algorithms are employed. Methods: Advanced signal-processing techniques are used to extract audio features from the sustained vowel ‘/a/’ sound. The extracted audio features include baseline features, intensities, formant frequencies, bandwidths, vocal fold parameters, and Mel-frequency cepstral coefficients (MFCCs) to form a feature vector. Then, this feature vector is further enriched by including wavelet-based features to form the second feature vector. For classification purposes, two popular machine learning models, namely, support vector machine (SVM) and k-nearest neighbors (kNNs), are trained to distinguish patients with PD. Results: The results demonstrate that the inclusion of wavelet-based voice features enhances the performance of both the SVM and kNN models for PD detection. However, kNN provides better accuracy, detection speed, training time, and misclassification cost than SVM. Conclusions: This work concludes that wavelet-based voice features are important for detecting neurodegenerative diseases like PD. These wavelet features can enhance the classification performance of machine learning models. This work also concludes that kNN is recommendable over SVM for the investigated voice features, despite the inclusion and exclusion of the wavelet features. © 2025 by the authors.
+KW  - artificial intelligence
+KW  - baseline features
+KW  - classification
+KW  - kNN
+KW  - machine learning
+KW  - Parkinson’s disease
+KW  - SVM
+KW  - voice features
+KW  - wavelets
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 26737426 (ISSN)
+LA  - English
+J2  - BioMedInformatics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: R. Islam; Department of Electrical and Computer Engineering, University of Fujairah, Fujairah P.O. Box 2202, United Arab Emirates; email: islamq@uwindsor.ca
+ER  -
+
+TY  - JOUR
+AU  - Iyer, A.
+AU  - Kemp, A.
+AU  - Rahmatallah, Y.
+AU  - Pillai, L.
+AU  - Glover, A.
+AU  - Prior, F.
+AU  - Larson-Prior, L.
+AU  - Virmani, T.
+TI  - A machine learning method to process voice samples for identification of Parkinson’s disease
+PY  - 2023
+T2  - Scientific Reports
+VL  - 13
+IS  - 1
+C7  - 20615
+DO  - 10.1038/s41598-023-47568-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177678085&doi=10.1038%2fs41598-023-47568-w&partnerID=40&md5=9465f476f838a24becb9f64d9da40981
+AD  - Georgia Institute of Technology, Atlanta, 30332, United States
+AD  - Biomedical Informatics, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AD  - Neurology, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AD  - Neurobiology and Developmental Sciences, University of Arkansas for Medical Sciences, Little Rock, 72205, United States
+AB  - Machine learning approaches have been used for the automatic detection of Parkinson’s disease with voice recordings being the most used data type due to the simple and non-invasive nature of acquiring such data. Although voice recordings captured via telephone or mobile devices allow much easier and wider access for data collection, current conflicting performance results limit their clinical applicability. This study has two novel contributions. First, we show the reliability of personal telephone-collected voice recordings of the sustained vowel /a/ in natural settings by collecting samples from 50 people with specialist-diagnosed Parkinson’s disease and 50 healthy controls and applying machine learning classification with voice features related to phonation. Second, we utilize a novel application of a pre-trained convolutional neural network (Inception V3) with transfer learning to analyze the spectrograms of the sustained vowel from these samples. This approach considers speech intensity estimates across time and frequency scales rather than collapsing measurements across time. We show the superiority of our deep learning model for the task of classifying people with Parkinson’s disease as distinct from healthy controls. © 2023, The Author(s).
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - Phonation
+KW  - Reproducibility of Results
+KW  - Voice
+KW  - human
+KW  - machine learning
+KW  - Parkinson disease
+KW  - phonation
+KW  - reproducibility
+KW  - voice
+PB  - Nature Research
+SN  - 20452322 (ISSN)
+C2  - 37996478
+LA  - English
+J2  - Sci. Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 36; Correspondence Address: A. Kemp; Biomedical Informatics, University of Arkansas for Medical Sciences, Little Rock, 72205, United States; email: ASKemp@uams.edu
+ER  -
+

@@ -1,0 +1,14 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (( TITLE ( ""Parkinson*"" OR ""PD"" ) AND TITLE-ABS-KEY ( ""sustained"" OR ""vowel"" OR ""phonation"" OR ""voice"" OR ""speech"" ) AND TITLE-ABS-KEY ( ""deep learning"" OR ""DL"" OR ""machine learning"" OR ""ML"" OR ""computer*"" ) AND TITLE-ABS-KEY ( ""class*"" OR ""detect*"" OR ""progno*"" OR ""diagno*"" OR ""predict*"" OR ""early"" OR ""feature"" OR ""spectrogram"" OR ""pre-trained"" OR ""transfer"" ) ) AND PUBYEAR > 2019 AND PUBYEAR < 2026 AND ( LIMIT-TO ( LANGUAGE,""English"" ) )  AND ( LIMIT-TO ( DOCTYPE,""re"" ) ) )"
+
+
+Number of results : 10
+
+"YEAR",
+"2025","9"
+"2024","10"
+"2023","7"
+"2022","2"
+"2021","6"
+"2020","3"

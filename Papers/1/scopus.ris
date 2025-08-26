@@ -1,0 +1,2626 @@
+﻿TY  - JOUR
+AU  - Dean, J.M.
+AU  - Iankova, V.
+AU  - Roberts, A.
+AU  - Schneider, S.A.
+TI  - Characteristics and Validity of Commercially Available Technologies Analyzing Voice Features to Assess Parkinson's Disease
+PY  - 2025
+T2  - Movement Disorders Clinical Practice
+DO  - 10.1002/mdc3.70214
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105010254571&doi=10.1002%2fmdc3.70214&partnerID=40&md5=2bb7e16cb6ebab6240f55a2d0b23cf9d
+AD  - Triad Health AI, Aurora, CO, United States
+AD  - Department of Neurology, München Klinik Harlaching, Munich, Germany
+AD  - Department of Computer Science and School of Communication Sciences and Disorders, Western University, London, ON, Canada
+AD  - Nuclear imaging Center, INSPIRE-PNRM+, Medical University, Johannes Gutenberg University, Mainz, Germany, Mainz, Germany
+AB  - Background: Interest in technologies for quantitative assessment of Parkinson's disease (PD) is growing, particularly those enabling voice and speech analysis. However, clinical validation varies widely, much algorithm data remain unpublished, and real-world use is still limited. Objective: The aim was to provide an overview of the characteristics and validity of commercially available tools that utilize machine learning to assess voice and speech features for identifying PD or assessing disease severity. Methods: The literature was reviewed to (1) identify, (2) compare, and (3) group commercially available tools deployed in smartphone apps and other scalable platforms based on their (1) previous use in PD, (2) feasibility, and (3) successful clinimetric testing. The International Parkinson and Movement Disorder Society Digital Tools and Technologies Repository; online databases, for example, PubMed; and web pages related to the entities associated with different technologies were searched for tools that use voice assessment. Identified devices were grouped into 3 categories: (1) “recommended,” (2) “suggested,” or (3) “listed.”. Results: Twelve relevant technologies were identified. One was placed in the “recommended” group (“Dysarthria Analyzer”), 6 in the “suggested” group, (“Audeering,” “Aural Analytics,” Canary Speech,” “KI:Elements,” “Modality.ai,” and “Redenlab”), and 5 in the “listed” group (“i-Prognosis,” “No Pa,” and “PdAssist,” as well as “mPower” and “HopkinsPD”). Conclusions: Despite their potential for clinical and research applications, their suitability in real-world environments remains to be determined. © 2025 International Parkinson and Movement Disorder Society.
+KW  - biometric
+KW  - machine learning
+KW  - Parkinson's disease
+KW  - voice
+KW  - algorithm
+KW  - controlled study
+KW  - disease severity
+KW  - dysarthria
+KW  - female
+KW  - human
+KW  - machine learning
+KW  - motor dysfunction
+KW  - Parkinson disease
+KW  - prognosis
+KW  - review
+KW  - Serinus
+KW  - severity of illness index
+KW  - smartphone
+KW  - speech analysis
+KW  - validity
+KW  - voice
+PB  - John Wiley and Sons Inc
+SN  - 23301619 (ISSN)
+LA  - English
+J2  - Mov. Disord. Clin. Pract.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: J.M. Dean; Triad Health AI, Aurora, 13918 E. Mississippi Avenue, Ste 60130, 80012, United States; email: john@johnmdean.com
+ER  -
+
+TY  - JOUR
+AU  - Nakamori, Y.
+AU  - Park, E.J.
+AU  - Shimaoka, M.
+TI  - Immune Deregulation in Sepsis and Septic Shock: Reversing Immune Paralysis by Targeting PD-1/PD-L1 Pathway
+PY  - 2021
+T2  - Frontiers in Immunology
+VL  - 11
+C7  - 624279
+DO  - 10.3389/fimmu.2020.624279
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101302762&doi=10.3389%2ffimmu.2020.624279&partnerID=40&md5=afc3287c8c84d92d339aee1c1f08f30b
+AD  - Department of Molecular Pathobiology and Cell Adhesion Biology, Mie University Graduate School of Medicine, Mie, Japan
+AB  - Sepsis remains a major problem for human health worldwide, thereby manifesting high rates of morbidity and mortality. Sepsis, once understood as a monophasic sustained hyperinflammation, is currently recognized as a dysregulated host response to infection, with both hyperinflammation and immunoparalysis occurring simultaneously from the earliest stages of sepsis, involving multiple organ dysfunctions. Despite the recent progress in the understanding of the pathophysiology underlying sepsis, no specific treatment to restore immune dysregulation in sepsis has been validated in clinical trials. In recent years, treatment for immune checkpoints such as the programmed cell death protein 1/programmed death ligand (PD-1/PD-L) pathway in tumor-infiltrating T-lymphocytes has been successful in the field of cancer immune therapy. As immune-paralysis in sepsis involves exhausted T-lymphocytes, future clinical applications of checkpoint inhibitors for sepsis are expected. In addition, the functions of PD-1/PD-L on innate lymphoid cells and the role of exosomal forms of PD-L1 warrant further research. Looking back on the history of repeatedly failed clinical trials of immune modulatory therapies for sepsis, sepsis must be recognized as a difficult disease entity for performing clinical trials. A major obstacle that could prevent effective clinical trials of drug candidates is the disease complexity and heterogeneities; clinically diagnosed sepsis could contain multiple sepsis subgroups that suffer different levels of hyper-inflammation and immune-suppression in distinct organs. Thus, the selection of appropriate more homogenous sepsis subgroup is the key for testing the clinical efficacy of experimental therapies targeting specific pathways in either hyperinflammation and/or immunoparalysis. An emerging technology such as artificial intelligence (AI) may help to identify an immune paralysis subgroup who would best be treated by PD-1/PD-L1 pathway inhibitors. © Copyright © 2021 Nakamori, Park and Shimaoka.
+KW  - artificial intelligence
+KW  - immune checkpoints inhibitors
+KW  - immunomodulation
+KW  - immunoparalysis
+KW  - machine learning
+KW  - PD-1
+KW  - PD-L
+KW  - sepsis - diagnostics
+KW  - Animals
+KW  - B7-H1 Antigen
+KW  - Humans
+KW  - Immune Checkpoint Inhibitors
+KW  - Immune Tolerance
+KW  - Programmed Cell Death 1 Receptor
+KW  - Shock, Septic
+KW  - immune checkpoint inhibitor
+KW  - programmed death 1 ligand 1
+KW  - T lymphocyte receptor
+KW  - tumor necrosis factor
+KW  - CD274 protein, human
+KW  - PDCD1 protein, human
+KW  - programmed death 1 ligand 1
+KW  - programmed death 1 receptor
+KW  - antiinflammatory activity
+KW  - apoptosis
+KW  - artificial intelligence
+KW  - cancer immunotherapy
+KW  - cell infiltration
+KW  - cytokine production
+KW  - down regulation
+KW  - exosome
+KW  - gene expression
+KW  - human
+KW  - hyperinflammation
+KW  - immune deficiency
+KW  - immune dysregulation
+KW  - immune response
+KW  - immune system
+KW  - immunological tolerance
+KW  - immunomodulation
+KW  - inflammation
+KW  - lymphoid cell
+KW  - machine learning
+KW  - morbidity
+KW  - mortality
+KW  - overall survival
+KW  - paralysis
+KW  - phase 1 clinical trial (topic)
+KW  - phase 2 clinical trial (topic)
+KW  - phase 3 clinical trial (topic)
+KW  - prevalence
+KW  - randomized controlled trial (topic)
+KW  - Review
+KW  - sepsis
+KW  - septic shock
+KW  - signal transduction
+KW  - T lymphocyte
+KW  - tumor immunity
+KW  - animal
+KW  - immunological tolerance
+KW  - immunology
+KW  - pathology
+KW  - septic shock
+PB  - Frontiers Media S.A.
+SN  - 16643224 (ISSN)
+C2  - 33679715
+LA  - English
+J2  - Front. Immunol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 113; Correspondence Address: ; 
+ER  -
+
+TY  - JOUR
+AU  - Pahuja, G.
+AU  - Nagabhushan, T.N.
+TI  - A Comparative Study of Existing Machine Learning Approaches for Parkinson's Disease Detection
+PY  - 2021
+T2  - IETE Journal of Research
+VL  - 67
+IS  - 1
+SP  - 4
+EP  - 14
+DO  - 10.1080/03772063.2018.1531730
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055551837&doi=10.1080%2f03772063.2018.1531730&partnerID=40&md5=f21d08d957e216cc32cc131c1d372748
+AD  - Department of Computer Science & Engineering, JSSATEN affiliated to Dr. A.P.J Abdul Kalam Technical University, Noida, UP, India
+AD  - Department of Information Science & Engineering, SJCE, Mysuru, India
+AB  - Parkinson's disease (PD) has affected millions of people worldwide and is more prevalent in people, over the age of 50. Even today, with many technologies and advancements, early detection of this disease remains a challenge. This necessitates a need for the machine learning-based automatic approaches that help clinicians to detect this disease accurately in its early stage. Thus, the focus of this research paper is to provide an insightful survey and compare the existing computational intelligence techniques used for PD detection. To save time and increase treatment efficiency, classification has found its place in PD detection. The existing knowledge review indicates that many classification algorithms have been used to achieve better results, but the problem is to identify the most efficient classifier for PD detection. The challenge in identifying the most appropriate classification algorithm lies in their application on local dataset. Thus, in this paper three types of classifiers, namely, Multilayer Perceptron, Support Vector Machine and K-nearest neighbor have been discussed on the benchmark (voice) dataset to compare and to know which of these classifiers is the most efficient and accurate for PD classification. The Voice input dataset for these classifiers has been obtained from UCI machine learning repository. ANN with Levenberg–Marquardt algorithm was found to be the best classifier, having highest classification accuracy (95.89%). Moreover, we compared our results with those obtained by Resul Das [“A comparison of multiple classification methods for diagnosis of Parkinson Disease,” Expert Systems and applications, vol. 37, pp 1568–1572, 2010]. © 2021 IETE.
+KW  - Artificial neural networks (ANN)
+KW  - K-nearest neighbors (KNN)
+KW  - Parkinson's disease (PD)
+KW  - Support vector machine (SVM)
+KW  - Computer aided diagnosis
+KW  - Expert systems
+KW  - Intelligent computing
+KW  - Learning systems
+KW  - Motion compensation
+KW  - Multilayer neural networks
+KW  - Nearest neighbor search
+KW  - Neural networks
+KW  - Neurodegenerative diseases
+KW  - Support vector machines
+KW  - Text processing
+KW  - Classification accuracy
+KW  - Classification algorithm
+KW  - Computational intelligence techniques
+KW  - K nearest neighbor (KNN)
+KW  - Machine learning approaches
+KW  - Multiple Classification
+KW  - Parkinson's disease
+KW  - UCI machine learning repository
+KW  - Classification (of information)
+PB  - Taylor and Francis Ltd.
+SN  - 03772063 (ISSN)
+LA  - English
+J2  - IETE J Res
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 116
+ER  -
+
+TY  - JOUR
+AU  - Ma, A.
+AU  - Lau, K.K.
+AU  - Thyagarajan, D.
+TI  - Voice changes in Parkinson's disease: What are they telling us?
+PY  - 2020
+T2  - Journal of Clinical Neuroscience
+VL  - 72
+SP  - 1
+EP  - 7
+DO  - 10.1016/j.jocn.2019.12.029
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077916863&doi=10.1016%2fj.jocn.2019.12.029&partnerID=40&md5=8f42a88c34aa2219763a0555b0fa78bf
+AD  - Department of Neurology, The Alfred Hospital, Melbourne, 3004, Victoria, Australia
+AD  - Department of Neuroscience, Central Clinical School, Monash University, Melbourne, 3004, Victoria, Australia
+AD  - Monash Imaging, Monash Health, Melbourne, 3168, Victoria, Australia
+AD  - Faculty of Medicine, Nursing and Health Sciences, Monash University, Melbourne, Victoria, Australia
+AB  - Emerging evidence suggests voice dysfunction is the earliest sign of motor impairment in Parkinson's disease (PD). The complexity and fine motor control involved in vocalization may result in dysfunction here before the limbs. The voice in PD demonstrates characteristic changes on perceptual and acoustic analyses. The physiological and anatomical correlates of these have been investigated through laryngoscopy, stroboscopy, photoglottography, laryngeal electromyography, computed-tomography, pulmonary function testing and aerodynamic assessments. These have revealed numerous abnormalities including incomplete glottic closure and vocal fold hypoadduction/bowing to account for these voice changes. Many of these phenomena are likely related to rigidity or bradykinesia of the laryngeal muscles. The early onset of voice changes is resonant with the pathophysiological insights offered by Braak's hypothesis and murine models of the disease. These physiological abnormalities and pathological models largely stand to support dopaminergic and non-dopaminergic mechanisms being implicated in the pathogenesis of voice dysfunction. This review focuses on characterizing the voice changes in PD. These stand as a promising area of enquiry to further our understanding of the pathophysiology of the disease and offer potential to be utilized as an early diagnostic biomarker or marker of disease progression. © 2020 Elsevier Ltd
+KW  - Hypokinetic dysarthria
+KW  - Parkinson's disease
+KW  - Speech disorders
+KW  - Voice
+KW  - Voice changes
+KW  - Animals
+KW  - Disease Progression
+KW  - Dysphonia
+KW  - Electromyography
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Mice
+KW  - Parkinson Disease
+KW  - dopamine
+KW  - bradykinesia
+KW  - computer assisted tomography
+KW  - correlation analysis
+KW  - disease course
+KW  - disease model
+KW  - electromyography
+KW  - glottis
+KW  - human
+KW  - laryngoscopy
+KW  - larynx muscle
+KW  - lung function test
+KW  - motor control
+KW  - motor dysfunction
+KW  - nonhuman
+KW  - Parkinson disease
+KW  - pathological anatomy
+KW  - pathophysiology
+KW  - photoglottography
+KW  - priority journal
+KW  - radiography
+KW  - Review
+KW  - rigidity
+KW  - stroboscopy
+KW  - vocal cord
+KW  - vocalization
+KW  - voice change
+KW  - voice disorder
+KW  - animal
+KW  - disease exacerbation
+KW  - dysphonia
+KW  - female
+KW  - male
+KW  - mouse
+KW  - Parkinson disease
+KW  - pathophysiology
+PB  - Churchill Livingstone
+SN  - 09675868 (ISSN)
+C2  - 31952969
+LA  - English
+J2  - J. Clin. Neurosci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 114; Correspondence Address: D. Thyagarajan; Department of Neuroscience, Central Clinical School, Monash University, Melbourne, The Alfred Centre, Level 6, 99 Commercial Road, 3004, Australia; email: d.thyagarajan@monash.edu; CODEN: JCNUE
+ER  -
+
+TY  - JOUR
+AU  - Suganya, A.
+AU  - Aarthy, S.L.
+TI  - Application of Deep Learning in the Diagnosis of Alzheimer’s and Parkinson’s Disease: A Review
+PY  - 2024
+T2  - Current Medical Imaging
+VL  - 20
+C7  - e280323215043
+DO  - 10.2174/1573405620666230328113721
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178299214&doi=10.2174%2f1573405620666230328113721&partnerID=40&md5=46db1f11aca2eda48a24f1979dc90132
+AD  - School of Information Technology and Engineering, VIT University, Tamil Nadu, Vellore, India
+AD  - School of Computer Science and Engineering, VIT University, Tamil Nadu, Vellore, India
+AB  - Most neurodegenerative diseases such as Alzheimer's and Parkinson's are life-threatening, critical, and incurable affecting mainly the elderly population. Early diagnosis is challenging as disease phenotype is very crucial for predicting, preventing the progression, and effective drug discovery. In the last few years, Deep learning (DL) based neural networks are the state-of-the-art models deployed in industries and academics across different areas like natural language processing, image analysis, speech recognition, audio classification, and many more It has been slowly realized that they have a high potential in medical image analysis and diagnostics and medical management in general. As this field is vast and expanding rapidly, we have put focused on existing DL-based models to detect Alzheimer’s and Parkinson's in particular. This study gives a summary of related medical examinations for these diseases. Frameworks and applications of many deep learning models have been discussed. We have given precise notes on pre-processing techniques used by various studies for MRI image analysis. An overview of the application of DL-based models in different stages of medical image analysis has been conferred. It has been realized from the review that more studies are focused on Alzheimer's compared to Parkinson's disease Additionally, we have tabulated the various public datasets available for these diseases. We have highlighted the potential use of a novel biomarker for the early diagnosis of these disorders. Also, some challenges and issues in implementing deep learning techniques for the detection of these diseases have been addressed. Finally, We concluded with some future research directions regarding deep learning techniques for diagnosis of the above diseases. © 2024 The Author(s). Published by Bentham Science Publisher.
+KW  - Alzheimer’s
+KW  - Biomarkers
+KW  - Deep learning
+KW  - MRI
+KW  - Neurodegenerative diseases
+KW  - Parkinson’s
+KW  - Pre-processing
+KW  - Deep neural networks
+KW  - Medical image processing
+KW  - Neurodegenerative diseases
+KW  - alpha synuclein
+KW  - amyloid beta protein
+KW  - biological marker
+KW  - fluorodeoxyglucose
+KW  - tau protein
+KW  - Alzheimer
+KW  - Alzheimer’s
+KW  - Deep learning
+KW  - Early diagnosis
+KW  - Image analyze
+KW  - Image-analysis
+KW  - Medical image analysis
+KW  - Neurodegenerative
+KW  - Parkinson’s
+KW  - Pre-processing
+KW  - Alzheimer disease
+KW  - cerebrospinal fluid
+KW  - cerebrovascular accident
+KW  - cognitive defect
+KW  - computer assisted tomography
+KW  - contrast enhancement
+KW  - convolutional neural network
+KW  - deep belief network
+KW  - deep Boltzmann machine
+KW  - deep learning
+KW  - deep neural network
+KW  - dementia
+KW  - early diagnosis
+KW  - freezing of gait
+KW  - functional magnetic resonance imaging
+KW  - human
+KW  - image analysis
+KW  - image segmentation
+KW  - laboratory test
+KW  - machine learning
+KW  - medial temporal lobe
+KW  - medical examination
+KW  - Mini Mental State Examination
+KW  - molecular imaging
+KW  - mortality rate
+KW  - natural language processing
+KW  - nerve cell
+KW  - nerve degeneration
+KW  - neuroimaging
+KW  - neuropsychological assessment
+KW  - nuclear magnetic resonance imaging
+KW  - Parkinson disease
+KW  - phenotype
+KW  - positron emission tomography
+KW  - recurrent neural network
+KW  - Review
+KW  - single photon emission computed tomography
+KW  - skull
+KW  - speech discrimination
+KW  - Unified Dyskinesia Rating Scale
+KW  - Unified Parkinson Disease Rating Scale
+KW  - Image analysis
+PB  - Bentham Science Publishers
+SN  - 15734056 (ISSN)
+C2  - 37021420
+LA  - English
+J2  - Curr. Med. Imaging.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: S.L. Aarthy; School of Computer Science and Engineering, VIT University, Vellore, Tamil Nadu, India; email: aarthy.sl@vit.ac.in
+ER  -
+
+TY  - JOUR
+AU  - Loh, H.W.
+AU  - Hong, W.
+AU  - Ooi, C.P.
+AU  - Chakraborty, S.
+AU  - Barua, P.D.
+AU  - Deo, R.C.
+AU  - Soar, J.
+AU  - Palmer, E.E.
+AU  - Acharya, U.R.
+TI  - Application of deep learning models for automated identification of parkinson’s disease: A review (2011–2021)
+PY  - 2021
+T2  - Sensors
+VL  - 21
+IS  - 21
+C7  - 7034
+DO  - 10.3390/s21217034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117493945&doi=10.3390%2fs21217034&partnerID=40&md5=46f502419b17c007d0ae916eb7f14db4
+AD  - School of Science and Technology, Singapore University of Social Sciences, Singapore, 599494, Singapore
+AD  - Cogninet Brain Team, Cogninet Australia, Sydney, 2010, NSW, Australia
+AD  - Faculty of Engineering and Information Technology, University of Technology Sydney, Sydney, 2007, NSW, Australia
+AD  - School of Business (Information Systems), Faculty of Business, Education, Law & Arts, University of Southern Queensland, Toowoomba, 4350, QLD, Australia
+AD  - School of Sciences, University of Southern Queensland, Springfield, 4300, QLD, Australia
+AD  - Centre of Clinical Genetics, Sydney Children’s Hospitals Network, Randwick, 2031, NSW, Australia
+AD  - School of Women’s and Children’s Health, University of New South Wales, Randwick, 2031, NSW, Australia
+AD  - School of Engineering, Ngee Ann Polytechnic, Singapore, 599489, Singapore
+AD  - Department of Bioinformatics and Medical Engineering, Asia University, Taichung, 413, Taiwan
+AD  - Research Organization for Advanced Science and Technology (IROAST), Kumamoto University, Kumamoto, 860-8555, Japan
+AB  - Parkinson’s disease (PD) is the second most common neurodegenerative disorder affecting over 6 million people globally. Although there are symptomatic treatments that can increase the survivability of the disease, there are no curative treatments. The prevalence of PD and disability-adjusted life years continue to increase steadily, leading to a growing burden on patients, their fam-ilies, society and the economy. Dopaminergic medications can significantly slow down the progression of PD when applied during the early stages. However, these treatments often become less effective with the disease progression. Early diagnosis of PD is crucial for immediate interventions so that the patients can remain self-sufficient for the longest period of time possible. Unfortunately, diagnoses are often late, due to factors such as a global shortage of neurologists skilled in early PD diagnosis. Computer-aided diagnostic (CAD) tools, based on artificial intelligence methods, that can perform automated diagnosis of PD, are gaining attention from healthcare services. In this re-view, we have identified 63 studies published between January 2011 and July 2021, that proposed deep learning models for an automated diagnosis of PD, using various types of modalities like brain analysis (SPECT, PET, MRI and EEG), and motion symptoms (gait, handwriting, speech and EMG). From these studies, we identify the best performing deep learning model reported for each modality and highlight the current limitations that are hindering the adoption of such CAD tools in healthcare. Finally, we propose new directions to further the studies on deep learning in the automated detection of PD, in the hopes of improving the utility, applicability and impact of such tools to improve early detection of PD globally. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Computer-aided diagnosis (CAD)
+KW  - Deep learning
+KW  - EEG
+KW  - Gait
+KW  - Handwriting
+KW  - MRI
+KW  - Parkinson’s disease (PD)
+KW  - PET
+KW  - SPECT
+KW  - Speech
+KW  - Artificial Intelligence
+KW  - Deep Learning
+KW  - Gait
+KW  - Humans
+KW  - Parkinson Disease
+KW  - Speech
+KW  - Automation
+KW  - Computer aided instruction
+KW  - Deep learning
+KW  - Neurodegenerative diseases
+KW  - Patient treatment
+KW  - Automated diagnosis
+KW  - Automated identification
+KW  - Computer-aided diagnose
+KW  - Deep learning
+KW  - Gait
+KW  - Handwriting
+KW  - Learning models
+KW  - Neurodegenerative disorders
+KW  - Parkinson’s disease
+KW  - SPECT
+KW  - artificial intelligence
+KW  - gait
+KW  - human
+KW  - Parkinson disease
+KW  - speech
+KW  - Computer aided diagnosis
+PB  - MDPI
+SN  - 14248220 (ISSN)
+C2  - 34770340
+LA  - English
+J2  - Sensors
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 81; Correspondence Address: U.R. Acharya; School of Science and Technology, Singapore University of Social Sciences, Singapore, 599494, Singapore; email: aru@np.edu.sg
+ER  -
+
+TY  - JOUR
+AU  - Reddy, A.
+AU  - Reddy, R.P.
+AU  - Roghani, A.K.
+AU  - Garcia, R.I.
+AU  - Khemka, S.
+AU  - Pattoor, V.
+AU  - Jacob, M.
+AU  - Reddy, P.H.
+AU  - Sehar, U.
+TI  - Artificial intelligence in Parkinson's disease: Early detection and diagnostic advancements
+PY  - 2024
+T2  - Ageing Research Reviews
+VL  - 99
+C7  - 102410
+DO  - 10.1016/j.arr.2024.102410
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198012012&doi=10.1016%2fj.arr.2024.102410&partnerID=40&md5=debd0af25325e4dad52a29a6519e0c84
+AD  - Department of Internal Medicine, Texas Tech University Health Sciences Center, Lubbock, 79430, TX, United States
+AD  - Lubbock High School, Lubbock, 79401, TX, United States
+AD  - Frenship High School, Lubbock, 79382, TX, United States
+AD  - Department of Biology, The University of Texas at San Antonio, San Antonio, 78249, TX, United States
+AD  - University of South Florida, Tampa, 33620, FL, United States
+AD  - Nutritional Sciences Department, College of Human Medicine, Texas Tech University Health Sciences Center, Lubbock, 79430, TX, United States
+AD  - Public Health Department of Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center, Lubbock, 79430, TX, United States
+AD  - Department pf Speech, Language and Hearing Services, School Health Professions, Texas Tech University Health Sciences Center, Lubbock, 79430, TX, United States
+AD  - Department of Pharmacology and Neuroscience, Texas Tech University Health Sciences Center, Lubbock, 79430, TX, United States
+AB  - Parkinson's disease (PD) is the second most common neurodegenerative disorder, globally affecting men and women at an exponentially growing rate, with currently no cure. Disease progression starts when dopaminergic neurons begin to die. In PD, the loss of neurotransmitter, dopamine is responsible for the overall communication of neural cells throughout the body. Clinical symptoms of PD are slowness of movement, involuntary muscular contractions, speech & writing changes, lessened automatic movement, and chronic tremors in the body. PD occurs in both familial and sporadic forms and modifiable and non-modifiable risk factors and socioeconomic conditions cause PD. Early detectable diagnostics and treatments have been developed in the last several decades. However, we still do not have precise early detectable biomarkers and therapeutic agents/drugs that prevent and/or delay the disease process. Recently, artificial intelligence (AI) science and machine learning tools have been promising in identifying early detectable markers with a greater rate of accuracy compared to past forms of treatment and diagnostic processes. Artificial intelligence refers to the intelligence exhibited by machines or software, distinct from the intelligence observed in humans that is based on neural networks in a form and can be used to diagnose the longevity and disease severity of disease. The term Machine Learning or Neural Networks is a blanket term used to identify an emerging technology that is created to work in the way of a “human brain” using many intertwined neurons to achieve the same level of raw intelligence as that of a brain. These processes have been used for neurodegenerative diseases such as Parkinson's disease and Alzheimer's disease, to assess the severity of the patient's condition. In the current article, we discuss the prevalence and incidence of PD, and currently available diagnostic biomarkers and therapeutic strategies. We also highlighted currently available artificial intelligence science and machine learning tools and their applications to detect disease and develop therapeutic interventions. © 2024
+KW  - Artificial intelligence
+KW  - Early detectable biomarkers
+KW  - Machine learning tools
+KW  - Parkinson's disease
+KW  - Therapeutic strategies
+KW  - Artificial Intelligence
+KW  - Biomarkers
+KW  - Early Diagnosis
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - biological marker
+KW  - biological marker
+KW  - Alzheimer disease
+KW  - artificial intelligence
+KW  - degenerative disease
+KW  - diagnosis
+KW  - disease severity
+KW  - dopaminergic nerve cell
+KW  - dyskinesia
+KW  - female
+KW  - human
+KW  - intelligence
+KW  - involuntary movement
+KW  - longevity
+KW  - machine learning
+KW  - male
+KW  - muscle contraction
+KW  - nerve cell network
+KW  - nonhuman
+KW  - Parkinson disease
+KW  - prevalence
+KW  - review
+KW  - risk factor
+KW  - severity of illness index
+KW  - tremor
+KW  - early diagnosis
+KW  - machine learning
+PB  - Elsevier Ireland Ltd
+SN  - 15681637 (ISSN)
+C2  - 38972602
+LA  - English
+J2  - Ageing Res. Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 22; Correspondence Address: U. Sehar; Department of Internal Medicine, Texas Tech University Health Sciences Center, Lubbock, 79430, United States; email: usehar@ttuhsc.edu; CODEN: ARRGA
+ER  -
+
+TY  - JOUR
+AU  - Orgeta, V.
+AU  - McDonald, K.R.
+AU  - Poliakoff, E.
+AU  - Hindle, J.V.
+AU  - Clare, L.
+AU  - Leroi, I.
+TI  - Cognitive training interventions for dementia and mild cognitive impairment in Parkinson’s disease
+PY  - 2020
+T2  - Cochrane Database of Systematic Reviews
+VL  - 2020
+IS  - 2
+C7  - CD011961
+DO  - 10.1002/14651858.CD011961.pub2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080050972&doi=10.1002%2f14651858.CD011961.pub2&partnerID=40&md5=3df6fc978f24c108aaed48923f452fe9
+AD  - University College London, Division of Psychiatry, 6th Floor, Maple House,, 149 Tottenham Court Road, London, W1T 7NF, United Kingdom
+AD  - University of Manchester, Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, 3.306, Jean McFarlane Building, Oxford Road, Manchester, M13 9PL, United Kingdom
+AD  - Division of Neuroscience and Experimental Psychology, School of Biological Sciences, University of Manchester, Manchester, M13 9PL, United Kingdom
+AD  - Llandudno Hospital, Betsi Cadwaladr University Health Board, Care of the Elderly Department, Hospital Road, Llandudno, LL30 1LB, Conwy, United Kingdom
+AD  - University of Exeter, REACH: The Centre for Research in Ageing and Cognitive Health, Perry Road, Exeter, EX4 4QG, United Kingdom
+AD  - Trinity College Dublin, Global Brain Health Institute, Dublin, Ireland
+AB  - Background: Approximately 60% to 80% of people with Parkinson's disease (PD) experience cognitive impairment that impacts on their quality of life. Cognitive decline is a core feature of the disease and can often present before the onset of motor symptoms. Cognitive training may be a useful non-pharmacological intervention that could help to maintain or improve cognition and quality of life for people with PD dementia (PDD) or PD-related mild cognitive impairment (PD-MCI). Objectives: To determine whether cognitive training (targeting single or multiple domains) improves cognition in people with PDD and PD-MCI or other clearly defined forms of cognitive impairment in people with PD. Search methods: We searched the Cochrane Dementia and Cognitive Improvement Group Trials Register (8 August 2019), the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, and PsycINFO. We searched reference lists and trial registers, searched relevant reviews in the area and conference proceedings. We also contacted experts for clarifications on data and ongoing trials. Selection criteria: We included randomised controlled trials where the participants had PDD or PD-MCI, and where the intervention was intended to train general or specific areas of cognitive function, targeting either a single domain or multiple domains of cognition, and was compared to a control condition. Multicomponent interventions that also included motor or other elements were considered eligible. Data collection and analysis: Two review authors independently screened titles, abstracts, and full-text articles for inclusion in the review. Two review authors also independently undertook extraction of data and assessment of methodological quality. We used GRADE methods to assess the overall quality of the evidence. Main results: Seven studies with a total of 225 participants met the inclusion criteria for this review. All seven studies compared the effects of a cognitive training intervention to a control intervention at the end of treatment periods lasting four to eight weeks. Six studies included people with PD living in the community. These six studies recruited people with single-domain (executive) or multiple-domain mild cognitive impairment in PD. Four of these studies identified participants with MCI using established diagnostic criteria, and two included both people with PD-MCI and people with PD who were not cognitively impaired. One study recruited people with a diagnosis of PD dementia who were living in long-term care settings. The cognitive training intervention in three studies targeted a single cognitive domain, whilst in four studies multiple domains of cognitive function were targeted. The comparison groups either received no intervention or took part in recreational activities (sports, music, arts), speech or language exercises, computerised motor therapy, or motor rehabilitation combined with recreational activity. We found no clear evidence that cognitive training improved global cognition. Although cognitive training was associated with higher scores on global cognition at the end of treatment, the result was imprecise and not statistically significant (6 trials, 178 participants, standardised mean difference (SMD) 0.28, 95% confidence interval (CI) −0.03 to 0.59; low-certainty evidence). There was no evidence of a difference at the end of treatment between cognitive training and control interventions on executive function (5 trials, 112 participants; SMD 0.10, 95% CI −0.28 to 0.48; low-certainty evidence) or visual processing (3 trials, 64 participants; SMD 0.30, 95% CI −0.21 to 0.81; low-certainty evidence). The evidence favoured the cognitive training group on attention (5 trials, 160 participants; SMD 0.36, 95% CI 0.03 to 0.68; low-certainty evidence) and verbal memory (5 trials, 160 participants; SMD 0.37, 95% CI 0.04 to 0.69; low-certainty evidence), but these effects were less certain in sensitivity analyses that excluded a study in which only a minority of the sample were cognitively impaired. There was no evidence of differences between treatment and control groups in activities of daily living (3 trials, 67 participants; SMD 0.03, 95% CI −0.47 to 0.53; low-certainty evidence) or quality of life (5 trials, 147 participants; SMD −0.01, 95% CI −0.35 to 0.33; low-certainty evidence). There was very little information on adverse events. We considered the certainty of the evidence for all outcomes to be low due to risk of bias in the included studies and imprecision of the results. We identified six ongoing trials recruiting participants with PD-MCI, but no ongoing trials of cognitive training for people with PDD. Authors' conclusions: This review found no evidence that people with PD-MCI or PDD who receive cognitive training for four to eight weeks experience any important cognitive improvements at the end of training. However, this conclusion was based on a small number of studies with few participants, limitations of study design and execution, and imprecise results. There is a need for more robust, adequately powered studies of cognitive training before conclusions can be drawn about the effectiveness of cognitive training for people with PDD and PD-MCI. Studies should use formal criteria to diagnose cognitive impairments, and there is a particular need for more studies testing the efficacy of cognitive training in people with PDD. Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+KW  - Activities of Daily Living
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Cognitive Dysfunction
+KW  - Dementia
+KW  - Humans
+KW  - Parkinson Disease
+KW  - Quality of Life
+KW  - Randomized Controlled Trials as Topic
+KW  - Task Performance and Analysis
+KW  - art
+KW  - attention
+KW  - clinical effectiveness
+KW  - clinical outcome
+KW  - cognition
+KW  - cognitive therapy
+KW  - cognitive training intervention
+KW  - community
+KW  - computerised motor therapy
+KW  - dementia
+KW  - human
+KW  - language
+KW  - long term care
+KW  - mild cognitive impairment
+KW  - music
+KW  - Parkinson disease
+KW  - priority journal
+KW  - randomized controlled trial (topic)
+KW  - recreational therapy
+KW  - rehabilitation care
+KW  - Review
+KW  - sensitivity analysis
+KW  - speech
+KW  - sport
+KW  - systematic review
+KW  - verbal memory
+KW  - aged
+KW  - cognitive defect
+KW  - daily life activity
+KW  - dementia
+KW  - meta analysis
+KW  - Parkinson disease
+KW  - psychology
+KW  - quality of life
+KW  - task performance
+KW  - very elderly
+PB  - John Wiley and Sons Ltd
+SN  - 1469493X (ISSN)
+C2  - 32101639
+LA  - English
+J2  - Cochrane Database Syst. Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 21; Correspondence Address: V. Orgeta; University College London, Division of Psychiatry, London, 6th Floor, Maple House,, 149 Tottenham Court Road, W1T 7NF, United Kingdom; email: v.orgeta@ucl.ac.uk; V. Orgeta; University College London, Division of Psychiatry, London, 6th Floor, Maple House,, 149 Tottenham Court Road, W1T 7NF, United Kingdom; email: v.orgeta@ucl.ac.uk
+ER  -
+
+TY  - JOUR
+AU  - Escalona, M.M.
+AU  - Campos-Roca, Y.
+AU  - Sánchez, C.J.P.
+TI  - Enhancing noise robustness of automatic Parkinson's disease detection in diadochokinesis tests using multicondition training
+PY  - 2025
+T2  - Expert Systems with Applications
+VL  - 260
+C7  - 125401
+DO  - 10.1016/j.eswa.2024.125401
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204470919&doi=10.1016%2fj.eswa.2024.125401&partnerID=40&md5=2cb8cce23b1513abcc7abf0c70cf522b
+AD  - Departamento de Matemáticas, Universidad de Extremadura, Campus Universitario s/n, Cáceres, 10003, Spain
+AD  - Departamento de Tecnología de Computadores y Comunicaciones, Universidad de Extremadura, Campus Universitario s/n, Cáceres, 10003, Spain
+AB  - Despite significant advances on automatic detection of Parkinson's disease (PD) based on speech, several open challenges still need to be addressed before a validated computer-aided diagnosis system can be used practically. One of these challenges lies in considering the potential corruption of speech caused by environmental noises, which may be nonstationary and exhibit varied characteristics. Speech features automatically extracted from diadochokinetic (DDK) tests have shown utility in assessing articulatory aspects of speech impairment in PD. The authors propose an automatic PD detection system based on a multicondition training (MCT) framework. The approach considers various types of realistic acoustic noise in addition to DDK recordings and uses machine learning for feature selection and classification. For each experiment, the noise addition process did not artificially increase the dataset size, as each subject's recordings were either affected by a single noise type or had no injected noise. To compare with this MCT-based approach, an alternative method is examined where training involves speech samples affected by uniform noise conditions. This method, referred to as single-condition training (SCT), involves training with features either from the original waveforms or from waveforms altered by noise addition, ensuring uniformity by using the same type of realistic noise across all the training samples. The benefit of the MCT approach is demonstrated by showing the results obtained in classification tests to discriminate patients affected by PD from healthy individuals. The experiments performed were based on an in-house voice recording database composed of 30 individuals diagnosed with PD and 30 healthy controls. The speech samples were recorded using a smartphone as a data collection device so that the samples were not affected by speech compression algorithms. Both approaches (SCT and MCT) were tested against each specific type of noise under consideration. The mean accuracy rates showed improvements of 1.68%, 5.18%, and 4.39% for/pa/,/ta/, and/ka/ syllables, respectively, when using MCT compared with SCT. To the best of the authors’ knowledge, this is the first strategy published in the literature to deal with the potential corruption of speech by environmental noise in automatic PD detection aid systems based on DDK tests. © 2024 The Authors
+KW  - Machine learning
+KW  - Mobile health
+KW  - Multicondition training
+KW  - Noise robustness
+KW  - Parkinson's disease
+KW  - Speech processing
+KW  - Audio recordings
+KW  - Diseases
+KW  - Image thinning
+KW  - Network security
+KW  - Speech enhancement
+KW  - Automatic Detection
+KW  - Condition
+KW  - Disease detection
+KW  - Environmental noise
+KW  - Machine-learning
+KW  - Multi-condition trainings
+KW  - Noise addition
+KW  - Noise robustness
+KW  - Parkinson's disease
+KW  - Waveforms
+KW  - Diagnosis
+PB  - Elsevier Ltd
+SN  - 09574174 (ISSN)
+LA  - English
+J2  - Expert Sys Appl
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: Y. Campos-Roca; Departamento de Tecnología de Computadores y Comunicaciones, Universidad de Extremadura, Cáceres, Campus Universitario s/n, 10003, Spain; email: ycampos@unex.es; CODEN: ESAPE
+ER  -
+
+TY  - JOUR
+AU  - Shaban, M.
+TI  - Deep Learning for Parkinson’s Disease Diagnosis: A Short Survey
+PY  - 2023
+T2  - Computers
+VL  - 12
+IS  - 3
+C7  - 58
+DO  - 10.3390/computers12030058
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150987226&doi=10.3390%2fcomputers12030058&partnerID=40&md5=2ed7ab99bb68b257ecea15088be679a2
+AD  - Electrical and Computer Engineering, University of South Alabama, Mobile, 36688, AL, United States
+AB  - Parkinson’s disease (PD) is a serious movement disorder that may eventually progress to mild cognitive dysfunction (MCI) and dementia. According to the Parkinson’s foundation, one million Americans were diagnosed with PD and almost 10 million individuals suffer from the disease worldwide. An early and precise clinical diagnosis of PD will ensure an early initiation of effective therapeutic treatments, which will potentially slow down the progression of the disease and improve the quality of life for patients and their caregivers. Machine and deep learning are promising technologies that may assist and support clinicians in providing an objective and reliable diagnosis of the disease based upon significant and unique features identified from relevant medical data. In this paper, the author provides a comprehensive review of the artificial intelligence techniques that were recently proposed during the period from 2016 to 2022 for the screening and staging of PD as well as the identification of the biomarkers of the disease based on Electroencephalography (EEG), Magnetic Resonance Imaging (MRI), speech tests, handwriting exams, and sensory data. In addition, the author highlights the current and future trends for PD diagnosis based machine and deep learning and discusses the limitations, challenges, potential future solutions, and recommendations for a reliable application of machine and deep learning for PD detection and screening. © 2023 by the author.
+KW  - artificial neural networks
+KW  - convolutional neural networks
+KW  - machine and deep learning
+KW  - Parkinson’s disease
+PB  - MDPI
+SN  - 2073431X (ISSN)
+LA  - English
+J2  - Comput.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 33; Correspondence Address: M. Shaban; Electrical and Computer Engineering, University of South Alabama, Mobile, 36688, United States; email: mshaban@southalabama.edu
+ER  -
+
+TY  - JOUR
+AU  - Xavier, D.
+AU  - Felizardo, V.
+AU  - Ferreira, B.
+AU  - Zacarias, H.
+AU  - Pourvahab, M.
+AU  - Souza-Pereira, L.
+AU  - Garcia, N.M.
+TI  - Voice analysis in Parkinson's disease - a systematic literature review
+PY  - 2025
+T2  - Artificial Intelligence in Medicine
+VL  - 163
+C7  - 103109
+DO  - 10.1016/j.artmed.2025.103109
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000670927&doi=10.1016%2fj.artmed.2025.103109&partnerID=40&md5=0d74c2f0800dc35a93daa6118ef9a4c9
+AD  - Universidade da Beira Interior, Covilhã, Portugal
+AD  - Instituto de Telecomunicações, Lisboa, Portugal
+AD  - LASIGE, Faculdade de Ciências, Universidade de Lisboa, Lisboa, Portugal
+AD  - Instituto Politécnico da Huíla, Universidade Mandume Ya Ndemufayo, Huíla, Angola
+AD  - NOVA LINCS, Nova University of Lisbon, Lisboa, Portugal
+AD  - Instituto Federal do Triangulo Mineiro - Campus Uberlândia Centro, Portugal
+AD  - Instituto de Biofísica e Engenharia Biomédica, Faculdade de Ciências, Universidade de Lisboa, Lisboa, Portugal
+AB  - Background and aim: Parkinson's disease is a neurodegenerative disease. It is often diagnosed at an advanced stage, which can influence the control over the illness. Therefore, the possibility of diagnosing Parkinson's disease at an earlier stage, and possibly prognosticate it, could be an advantage. Given this, a literature review that covers current studies in the field is relevant. Methods: The aim of this study is to present a systematic literature review in which the models used for the diagnosis and prognosis of Parkinson's disease through voice and speech assessment are elucidated. Three databases were consulted to obtain the studies between 2019 and 2023: SienceDirect, IEEE Xplore and ACM Library. Results: One hundred and six studies were considered eligible, considering the definition of inclusion and exclusion criteria. The vast majority of these studies (94.34%) focus on diagnosing the disease, while the remainder (11.32%) focus on prognosis. Conclusion: Voice analysis for the diagnosis and prognosis of Parkinson's disease using machine learning techniques can be achieved, with very satisfactory performance results, like is demonstrated in this systematic literature review. © 2025 The Authors
+KW  - Diagnosis or prognosis
+KW  - Machine learning
+KW  - Parkinson's disease
+KW  - Voice or speech
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - Prognosis
+KW  - Voice
+KW  - Adversarial machine learning
+KW  - Disease control
+KW  - 'current
+KW  - Diagnose or prognose
+KW  - Diagnosis and prognosis
+KW  - Literature reviews
+KW  - Machine-learning
+KW  - Neurodegenerative
+KW  - Parkinson's disease
+KW  - Systematic literature review
+KW  - Voice analysis
+KW  - Voice or speech
+KW  - artificial neural network
+KW  - convolutional neural network
+KW  - decision tree
+KW  - discriminant analysis
+KW  - feature extraction
+KW  - human
+KW  - k nearest neighbor
+KW  - machine learning
+KW  - Parkinson disease
+KW  - performance indicator
+KW  - prognosis
+KW  - random forest
+KW  - Review
+KW  - short time Fourier transform
+KW  - speech
+KW  - speech rehabilitation
+KW  - support vector machine
+KW  - systematic review
+KW  - voice
+KW  - voice analysis
+KW  - diagnosis
+KW  - machine learning
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - voice
+KW  - Neurodegenerative diseases
+PB  - Elsevier B.V.
+SN  - 09333657 (ISSN)
+C2  - 40132400
+LA  - English
+J2  - Artif. Intell. Med.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: D. Xavier; Universidade da Beira Interior, Covilhã, Portugal; email: daniela.xavier@ubi.pt; CODEN: AIMEE
+ER  -
+
+TY  - JOUR
+AU  - di Biase, L.
+AU  - Pecoraro, P.M.
+AU  - Pecoraro, G.
+AU  - Shah, S.A.
+AU  - Di Lazzaro, V.
+TI  - Machine learning and wearable sensors for automated Parkinson’s disease diagnosis aid_ a systematic review
+PY  - 2024
+T2  - Journal of Neurology
+VL  - 271
+IS  - 10
+SP  - 6452
+EP  - 6470
+DO  - 10.1007/s00415-024-12611-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201190383&doi=10.1007%2fs00415-024-12611-x&partnerID=40&md5=f75ae3eb3e1ae0596ec4d88ecc8067a5
+AD  - Research Unit of Neurology, Neurophysiology and Neurobiology, Department of Medicine and Surgery, Università Campus Bio-Medico di Roma, Via Alvaro del Portillo 21, Rome, 00128, Italy
+AD  - Operative Research Unit of Neurology, Fondazione Policlinico Universitario Campus Bio-Medico, Via Alvaro del Portillo 200, Rome, 00128, Italy
+AD  - Brain Innovations Lab, Università Campus Bio-Medico di Roma, Via Álvaro del Portillo 21, Rome, 00128, Italy
+AD  - Telecommunications Engineer, Rome, Italy
+AD  - Usher Institute, The University of Edinburgh, Edinburgh, United Kingdom
+AB  - Background: The diagnosis of Parkinson’s disease is currently based on clinical evaluation. Despite clinical hallmarks, unfortunately, the error rate is still significant. Low in-vivo diagnostic accuracy of clinical evaluation mainly relies on the lack of quantitative biomarkers for an objective motor performance assessment. Non-invasive technologies, such as wearable sensors, coupled with machine learning algorithms, assess quantitatively and objectively the motor performances, with possible benefits either for in-clinic and at-home settings. We conducted a systematic review of the literature on machine learning algorithms embedded in smart devices in Parkinson’s disease diagnosis. Methods: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched PubMed for articles published between December, 2007 and July, 2023, using a search string combining “Parkinson’s disease” AND (“healthy” or “control”) AND “diagnosis”, within the Groups and Outcome domains. Additional search terms included “Algorithm”, “Technology” and “Performance”. Results: From 89 identified studies, 47 met the inclusion criteria based on the search string and four additional studies were included based on the Authors’ expertise. Gait emerged as the most common parameter analysed by machine learning models, with Support Vector Machines as the prevalent algorithm. The results suggest promising accuracy with complex algorithms like Random Forest, Support Vector Machines, and K-Nearest Neighbours. Discussion: Despite the promise shown by machine learning algorithms, real-world applications may still face limitations. This review suggests that integrating machine learning with wearable sensors has the potential to improve Parkinson’s disease diagnosis. These tools could provide clinicians with objective data, potentially aiding in earlier detection. © Springer-Verlag GmbH Germany, part of Springer Nature 2024.
+KW  - Machine learning
+KW  - Parkinson’s disease (PD)
+KW  - Systematic review
+KW  - Wearable sensors
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - Wearable Electronic Devices
+KW  - algorithm
+KW  - artificial neural network
+KW  - Bayesian learning
+KW  - body equilibrium
+KW  - body position
+KW  - computer assisted diagnosis
+KW  - computer vision
+KW  - controlled study
+KW  - convolutional neural network
+KW  - cross validation
+KW  - decision tree
+KW  - deep learning
+KW  - deep neural network
+KW  - diagnostic accuracy
+KW  - diagnostic test accuracy study
+KW  - extreme learning machine
+KW  - freezing of gait
+KW  - futurology
+KW  - gait
+KW  - gaussian mixture model
+KW  - ground reaction force
+KW  - human
+KW  - k means clustering
+KW  - k nearest neighbor
+KW  - kinematics
+KW  - logistic regression analysis
+KW  - machine learning
+KW  - MDS-Unified Parkinson Disease Rating Scale
+KW  - Medline
+KW  - motor performance
+KW  - Parkinson disease
+KW  - performance indicator
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - prevalence
+KW  - publication
+KW  - random forest
+KW  - receiver operating characteristic
+KW  - remote sensing
+KW  - Review
+KW  - sensitivity and specificity
+KW  - support vector machine
+KW  - systematic review
+KW  - tremor
+KW  - Unified Parkinson Disease Rating Scale
+KW  - voice
+KW  - diagnosis
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - wearable computer
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03405354 (ISSN)
+C2  - 39143345
+LA  - English
+J2  - J. Neurol.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 18; Correspondence Address: L. di Biase; Research Unit of Neurology, Neurophysiology and Neurobiology, Department of Medicine and Surgery, Università Campus Bio-Medico di Roma, Rome, Via Alvaro del Portillo 21, 00128, Italy; email: l.dibiase@policlinicocampus.it; CODEN: JNRYA
+ER  -
+
+TY  - JOUR
+AU  - Bianchini, E.
+AU  - Rinaldi, D.
+AU  - Alborghetti, M.
+AU  - Simonelli, M.
+AU  - D’Audino, F.
+AU  - Onelli, C.
+AU  - Pegolo, E.
+AU  - Pontieri, F.E.
+TI  - The Story behind the Mask: A Narrative Review on Hypomimia in Parkinson’s Disease
+PY  - 2024
+T2  - Brain Sciences
+VL  - 14
+IS  - 1
+C7  - 109
+DO  - 10.3390/brainsci14010109
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183096647&doi=10.3390%2fbrainsci14010109&partnerID=40&md5=94f06bdc541c1d509e497c298c189c4c
+AD  - Department of Neuroscience, Mental Health and Sensory Organs (NESMOS), Sapienza University of Rome, Rome, 00189, Italy
+AD  - AGEIS, Université Grenoble Alpes, Grenoble, 38000, France
+AD  - Sant’Andrea University Hospital, Rome, 00189, Italy
+AD  - Ospedale dei Castelli, ASL Rome 6, Ariccia, 00040, Italy
+AD  - Department of Molecular Medicine, University of Padova, Padova, 35121, Italy
+AD  - Department of Information Engineering, University of Padova, Padova, 35131, Italy
+AD  - Fondazione Santa Lucia IRCCS, Rome, 00179, Italy
+AB  - Facial movements are crucial for social and emotional interaction and well-being. Reduced facial expressions (i.e., hypomimia) is a common feature in patients with Parkinson’s disease (PD) and previous studies linked this manifestation to both motor symptoms of the disease and altered emotion recognition and processing. Nevertheless, research on facial motor impairment in PD has been rather scarce and only a limited number of clinical evaluation tools are available, often suffering from poor validation processes and high inter- and intra-rater variability. In recent years, the availability of technology-enhanced quantification methods of facial movements, such as automated video analysis and machine learning application, led to increasing interest in studying hypomimia in PD. In this narrative review, we summarize the current knowledge on pathophysiological hypotheses at the basis of hypomimia in PD, with particular focus on the association between reduced facial expressions and emotional processing and analyze the current evaluation tools and management strategies for this symptom, as well as future research perspectives. © 2024 by the authors.
+KW  - amimia
+KW  - emotion recognition
+KW  - face
+KW  - facial bradykinesia
+KW  - facial expressions
+KW  - hypomimia
+KW  - Parkinson’s disease
+KW  - donepezil
+KW  - levodopa
+KW  - amygdala
+KW  - anxiety
+KW  - apathy
+KW  - aphasia
+KW  - blinking
+KW  - bradykinesia
+KW  - clinical evaluation
+KW  - clinical feature
+KW  - degenerative disease
+KW  - depression
+KW  - electromyography
+KW  - emotion
+KW  - emotional network
+KW  - facial expression
+KW  - facial recognition
+KW  - fluorescence activated cell sorting
+KW  - human
+KW  - hypomimia
+KW  - hypomimia
+KW  - knowledge
+KW  - machine learning
+KW  - Montreal cognitive assessment
+KW  - mood disorder
+KW  - motor control
+KW  - motor dysfunction
+KW  - neuroimaging
+KW  - neuromuscular function
+KW  - neuropsychological assessment
+KW  - outcome assessment
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - physiotherapy
+KW  - Positive and Negative Syndrome Scale
+KW  - psychotherapy
+KW  - recognition
+KW  - REM sleep
+KW  - review
+KW  - Review
+KW  - social interaction
+KW  - speech therapy
+KW  - Unified Parkinson Disease Rating Scale
+KW  - videorecording
+KW  - visual information
+KW  - wellbeing
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20763425 (ISSN)
+LA  - English
+J2  - Brain Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 7; Correspondence Address: F.E. Pontieri; Department of Neuroscience, Mental Health and Sensory Organs (NESMOS), Sapienza University of Rome, Rome, 00189, Italy; email: francesco.pontieri@uniroma1.it
+ER  -
+
+TY  - JOUR
+AU  - Amato, F.
+AU  - Saggio, G.
+AU  - Cesarini, V.
+AU  - Olmo, G.
+AU  - Costantini, G.
+TI  - Machine learning- and statistical-based voice analysis of Parkinson's disease patients: A survey
+PY  - 2023
+T2  - Expert Systems with Applications
+VL  - 219
+C7  - 119651
+DO  - 10.1016/j.eswa.2023.119651
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147851679&doi=10.1016%2fj.eswa.2023.119651&partnerID=40&md5=bb67320a14ba27beeac7079515423cb4
+AD  - Dept. Control and Computer Engineering, Polytechnic University of Turin, Turin, Italy
+AD  - Dept. Electronic Engineering, University of Rome Tor Vergata, Rome, Italy
+AB  - The preliminary diagnosis and evaluation of the presence and/or severity of Parkinson's disease is crucial in controlling the progress of the disease. Real-time, non-invasive methodologies based on machine learning-enhanced voice analysis are gathering more interest as the potential of this field unveils. Specifically, acoustic features are employed in many machine learning techniques, and could also function as indicators of the overall state of the subjects’ voice: this review aims at identifying the most widely employed and promising feature-based machine learning methodologies, evidencing baselines and state-of-the-art solutions. A total of 102 works plus 5 review articles were selected from the IEEE Xplore, PubMed, Elsevier, and Web of Science electronic databases. A statistical assessment is performed identifying the most frequently used features as well as those deemed as most effective; an overview of algorithms, public datasets, toolboxes, and general metadata is also performed. According to our results, Jitter, Shimmer, Harmonic-to-Noise Ratio, Fundamental Frequency, and Mel Frequency Cepstral Coefficients are the mostly adopted features. In addition, it is worth noting a fair prevalence of glottal-like models and additional filtering options, such as Detrended Fluctuation Analysis. © 2017 Elsevier Inc. All rights reserved. © 2023 Elsevier Ltd
+KW  - Acoustic features
+KW  - Machine learning
+KW  - Parkinson's disease
+KW  - Voice analysis
+KW  - Diagnosis
+KW  - Learning systems
+KW  - Neurodegenerative diseases
+KW  - Noninvasive medical procedures
+KW  - Acoustic features
+KW  - Elsevier
+KW  - Feature-based
+KW  - Machine learning techniques
+KW  - Machine-learning
+KW  - On-machines
+KW  - Parkinson's disease
+KW  - Real- time
+KW  - State of the art
+KW  - Voice analysis
+KW  - Machine learning
+PB  - Elsevier Ltd
+SN  - 09574174 (ISSN)
+LA  - English
+J2  - Expert Sys Appl
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 36; Correspondence Address: V. Cesarini; Dept. Electronic Engineering, University of Rome Tor Vergata, Rome, Italy; email: valerio.cesarini@uniroma2.it; CODEN: ESAPE
+ER  -
+
+TY  - JOUR
+AU  - Miah, A.S.M.
+AU  - Suzuki, T.
+AU  - Shin, J.
+TI  - A Methodological and Structural Review of Parkinson’s Disease Detection Across Diverse Data Modalities
+PY  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 98931
+EP  - 98975
+DO  - 10.1109/ACCESS.2025.3575023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007786940&doi=10.1109%2fACCESS.2025.3575023&partnerID=40&md5=973b7fd16fd4c14a3a1826a6a42b537f
+AD  - The University of Aizu, School of Computer Science and Engineering, Aizuwakamatsu, 965-0006, Japan
+AB  - Parkinson’s Disease (PD) is a progressive neurological disorder that primarily affects motor functions and can lead to mild cognitive impairment (MCI) and dementia in its advanced stages. With approximately 10 million people diagnosed globally—1 to 1.8 per 1,000 individuals, according to reports by the Japan Times and the Parkinson Foundation—early and accurate diagnosis of PD is crucial for improving patient outcomes. While numerous studies have utilized machine learning (ML) and deep learning (DL) techniques for PD recognition, existing surveys are limited in scope, often focusing on single data modalities and failing to capture the potential of multimodal approaches. To address these gaps, this study presents a comprehensive review of PD recognition systems across diverse data modalities, including Magnetic Resonance Imaging (MRI), gait-based pose analysis, gait sensory data, handwriting analysis, speech test data, Electroencephalography (EEG), and multimodal fusion techniques. Based on over 342 articles from leading scientific databases, this review examines key aspects such as data collection methods, settings, feature representations, and system performance, with a focus on recognition accuracy and robustness. Notably, limitations such as the lack of robust multimodal frameworks and challenges in continuous PD recognition are identified, underscoring the need for innovative solutions. The review highlights significant advancements in PD recognition, particularly the transition from handcrafted feature engineering to DL-based methods. Furthermore, it explores promising trends in multimodal approaches, offering insights into overcoming existing challenges such as data scarcity, model generalization, and computational efficiency. The study emphasizes the importance of integrating diverse data sources to achieve higher diagnostic accuracy and reliability. This survey aims to serve as a comprehensive resource for researchers, providing actionable guidance for the development of next-generation PD recognition systems. By leveraging diverse data modalities and cutting-edge machine learning paradigms, this work contributes to advancing the state of PD diagnostics and improving patient care through innovative, multimodal approaches. © 2013 IEEE.
+KW  - audio signal
+KW  - deep learning
+KW  - EEG signal
+KW  - handwriting
+KW  - machine learning
+KW  - MRI
+KW  - Multi-modality dataset
+KW  - PD recognition
+KW  - pose
+KW  - speech
+KW  - video
+KW  - voice
+KW  - Deep learning
+KW  - Electroencephalography
+KW  - Electrotherapeutics
+KW  - Taxonomies
+KW  - Cognitive impairment
+KW  - Disease detection
+KW  - Leap motion
+KW  - Machine-learning
+KW  - MDS-UPDRS
+KW  - Motor function
+KW  - Multi-modal approach
+KW  - Neurological disorders
+KW  - Parkinson's disease
+KW  - Recognition systems
+KW  - Neurodegenerative diseases
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: J. Shin; The University of Aizu, School of Computer Science and Engineering, Aizuwakamatsu, 965-0006, Japan; email: jpshin@u-aizu.ac.jp
+ER  -
+
+TY  - JOUR
+AU  - Khachnaoui, H.
+AU  - Mabrouk, R.
+AU  - Khlifa, N.
+TI  - Machine learning and deep learning for clinical data and PET/SPECT imaging in parkinson’s disease: A review
+PY  - 2020
+T2  - IET Image Processing
+VL  - 14
+IS  - 16
+DO  - 10.1049/iet-ipr.2020.1048
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102770101&doi=10.1049%2fiet-ipr.2020.1048&partnerID=40&md5=f677e7647340d7e198d743f70e859533
+AD  - Laboratoire de Biophysique et Technologies Médicales, Université de Tunis El Manar, Institut Superieur des Technologies medicales de Tunis, Tunis, 1006, Tunisia
+AD  - Department of Computer Sciences, Bishop’s University, Sherbrooke, Canada
+AB  - Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that is increasingly applied to several medical diagnosis tasks, including a wide range of diseases. Importantly, various ML models were developed to address the complexity of Parkinson’s Disease (PD) diagnosis. PD is a neurodegenerative disease characterized by motor and non-motor disorders where its syndromes affect the daily lives of patients. Several Computer Aided Diagnosis and Detection (CADD) systems based on hand-crafted ML algorithms achieved promising results in distinguishing PD patients from Healthy Control (HC) subjects and other Parkinsonian syndrome categories using clinical data (e.g., speech and gait impairments) and medical imaging [e.g., Position Emission Tomography (PET) and Single Photon Emission Computed Tomography (SPECT)]. Despite the good performance of hand-crafted ML algorithms, there is still a problem linked to the features’ extraction and selection. In fact, Deep Learning DL has provided an ultimate solution for the features’ extraction and selection related issue. An important number of studies on the diagnosis of PD using DL algorithms were developed recently. This study provides an overview of the application of hand-crafted ML algorithms and DL techniques for PD diagnosis. It also introduces key concepts for understanding the application of ML methods to diagnose PD. © The Institution of Engineering and Technology 2020.
+KW  - Computer aided diagnosis
+KW  - Computer control systems
+KW  - Deep learning
+KW  - Extraction
+KW  - Feature extraction
+KW  - Learning systems
+KW  - Medical imaging
+KW  - Neurodegenerative diseases
+KW  - Particle beams
+KW  - Clinical data
+KW  - Daily lives
+KW  - Disease diagnosis
+KW  - Feature extraction and selection
+KW  - Machine learning algorithms
+KW  - Machine learning models
+KW  - Machine-learning
+KW  - Position emission tomography
+KW  - Subfields
+KW  - Tomography imaging
+KW  - Single photon emission computed tomography
+PB  - John Wiley and Sons Inc
+SN  - 17519659 (ISSN)
+LA  - English
+J2  - IET Image Proc.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 37; Correspondence Address: H. Khachnaoui; Laboratoire de Biophysique et Technologies Médicales, Université de Tunis El Manar, Institut Superieur des Technologies medicales de Tunis, Tunis, 1006, Tunisia; email: hajerkhachnaoui69@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Gupta, R.
+AU  - Kumari, S.
+AU  - Senapati, A.
+AU  - Ambasta, R.K.
+AU  - Kumar, P.
+TI  - New era of artificial intelligence and machine learning-based detection, diagnosis, and therapeutics in Parkinson's disease
+PY  - 2023
+T2  - Ageing Research Reviews
+VL  - 90
+C7  - 102013
+DO  - 10.1016/j.arr.2023.102013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166761349&doi=10.1016%2fj.arr.2023.102013&partnerID=40&md5=38a2bb1ba68702d3560b471f6f4fe0f7
+AD  - Molecular Neuroscience and Functional Genomics Laboratory, Department of Biotechnology, Delhi Technological, University, United States
+AD  - Acton Boxborough Regional High School, MA, United States
+AB  - Parkinson's disease (PD) is characterized by the loss of neuronal cells, which leads to synaptic dysfunction and cognitive defects. Despite the advancements in treatment strategies, the management of PD is still a challenging event. Early prediction and diagnosis of PD are of utmost importance for effective management of PD. In addition, the classification of patients with PD as compared to normal healthy individuals also imposes drawbacks in the early diagnosis of PD. To address these challenges, artificial intelligence (AI) and machine learning (ML) models have been implicated in the diagnosis, prediction, and treatment of PD. Recent times have also demonstrated the implication of AI and ML models in the classification of PD based on neuroimaging methods, speech recording, gait abnormalities, and others. Herein, we have briefly discussed the role of AI and ML in the diagnosis, treatment, and identification of novel biomarkers in the progression of PD. We have also highlighted the role of AI and ML in PD management through altered lipidomics and gut-brain axis. We briefly explain the role of early PD detection through AI and ML algorithms based on speech recordings, handwriting patterns, gait abnormalities, and neuroimaging techniques. Further, the review discuss the potential role of the metaverse, the Internet of Things, and electronic health records in the effective management of PD to improve the quality of life. Lastly, we also focused on the implementation of AI and ML-algorithms in neurosurgical process and drug discovery. © 2023 Elsevier B.V.
+KW  - Artificial intelligence
+KW  - Gait abnormalities
+KW  - Internet of things
+KW  - Machine learning
+KW  - Parkinson's disease
+KW  - Telemedicine systems
+KW  - Algorithms
+KW  - Artificial Intelligence
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - Quality of Life
+KW  - adenosine A2a receptor
+KW  - amantadine
+KW  - amine oxidase (flavin containing) isoenzyme A
+KW  - amine oxidase (flavin containing) isoenzyme B
+KW  - biological marker
+KW  - clonidine
+KW  - cryopyrin
+KW  - dabrafenib
+KW  - diuretic agent
+KW  - dopamine
+KW  - dopamine 2 receptor
+KW  - dopamine receptor
+KW  - dopamine transporter
+KW  - indole derivative
+KW  - levodopa
+KW  - lipidome
+KW  - muscarinic M1 receptor
+KW  - muscarinic M2 receptor
+KW  - muscarinic M3 receptor
+KW  - muscarinic M4 receptor
+KW  - muscarinic M5 receptor
+KW  - piperazine derivative
+KW  - prebiotic agent
+KW  - probiotic agent
+KW  - proteome
+KW  - pyrimidine derivative
+KW  - sulfonamide
+KW  - synbiotic agent
+KW  - tetrahydrocannabinol
+KW  - transcriptome
+KW  - adult
+KW  - algorithm
+KW  - artificial intelligence
+KW  - artificial neural network
+KW  - audio recording
+KW  - brain disease
+KW  - brain-gut axis
+KW  - cognitive defect
+KW  - controlled study
+KW  - convolutional neural network
+KW  - dancing
+KW  - data base
+KW  - deep learning
+KW  - deep neural network
+KW  - diagnostic imaging
+KW  - disease severity
+KW  - drawing
+KW  - drug repositioning
+KW  - drug targeting
+KW  - early diagnosis
+KW  - electroencephalogram
+KW  - electromyogram
+KW  - electronic health record
+KW  - functional magnetic resonance imaging
+KW  - gait
+KW  - gait disorder
+KW  - game
+KW  - genome-wide association study
+KW  - handwriting
+KW  - human
+KW  - internet of things
+KW  - intestine flora
+KW  - lipidomics
+KW  - liquid chromatography-mass spectrometry
+KW  - machine learning
+KW  - metabolomics
+KW  - microbiome
+KW  - nanorobotics
+KW  - nerve cell
+KW  - neuroimaging
+KW  - neurologic disease
+KW  - nonhuman
+KW  - nuclear magnetic resonance imaging
+KW  - Parkinson disease
+KW  - physiotherapy
+KW  - positron emission tomography
+KW  - prediction
+KW  - quality of life
+KW  - random forest
+KW  - recurrent neural network
+KW  - Review
+KW  - single photon emission computed tomography
+KW  - speech
+KW  - supervised machine learning
+KW  - telemedicine
+KW  - telemonitoring
+KW  - traditional medicine
+KW  - unsupervised machine learning
+KW  - voice
+KW  - machine learning
+KW  - Parkinson disease
+PB  - Elsevier Ireland Ltd
+SN  - 15681637 (ISSN)
+C2  - 37429545
+LA  - English
+J2  - Ageing Res. Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 75; Correspondence Address: R. Gupta; Molecular Neuroscience and Functional Genomics Laboratory, Delhi Technological University (Formerly Delhi College of Engineering), Delhi, Shahbad Daulatpur, Bawana Road, 110042; email: rohangupta1394@gmail.com; P. Kumar; Department of Biotechnology, Dean (International Affairs), Molecular Neuroscience and Functional Genomics Laboratory, Delhi Technological University (Formerly Delhi College of Engineering), Delhi, Shahbad Daulatpur, Bawana Road, 110042, India; email: kpravir@gmail.com; CODEN: ARRGA
+ER  -
+
+TY  - JOUR
+AU  - Ngo, Q.C.
+AU  - Motin, M.A.
+AU  - Pah, N.D.
+AU  - Drotár, P.
+AU  - Kempster, P.
+AU  - Kumar, D.
+TI  - Computerized analysis of speech and voice for Parkinson's disease: A systematic review
+PY  - 2022
+T2  - Computer Methods and Programs in Biomedicine
+VL  - 226
+C7  - 107133
+DO  - 10.1016/j.cmpb.2022.107133
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139016927&doi=10.1016%2fj.cmpb.2022.107133&partnerID=40&md5=3526e028b542ef97d4ae97bfb16f2a41
+AD  - Biosignals Lab, RMIT University, Melbourne, Australia
+AD  - Department of Electrical & Electronic Engineering, Rajshahi University of Engineering & Technology, Rajshahi, 6204, Bangladesh
+AD  - Universitas Surabaya, Indonesia
+AD  - Intelligent Information Systems Lab, Technical University of Kosice, Letna 9, Kosice, 42001, Slovakia
+AD  - Neurosciences Department, Monash Health, Clayton, VIC, Australia
+AD  - Department of Medicine, School of Clinical Sciences, Monash University, Clayton, VIC, Australia
+AB  - Background and objective: Speech impairment is an early symptom of Parkinson's disease (PD). This study has summarized the literature related to speech and voice in detecting PD and assessing its severity. Methods: A systematic review of the literature from 2010 to 2021 to investigate analysis methods and signal features. The keywords “Automatic analysis” in conjunction with “PD speech” or “PD voice” were used, and the PubMed and ScienceDirect databases were searched. A total of 838 papers were found on the first run, of which 189 were selected. One hundred and forty-seven were found to be suitable for the review. The different datasets, recording protocols, signal analysis methods and features that were reported are listed. Values of the features that separate PD patients from healthy controls were tabulated. Finally, the barriers that limit the wide use of computerized speech analysis are discussed. Results: Speech and voice may be valuable markers for PD. However, large differences between the datasets make it difficult to compare different studies. In addition, speech analytic methods that are not informed by physiological understanding may alienate clinicians. Conclusions: The potential usefulness of speech and voice for the detection and assessment of PD is confirmed by evidence from the classification and correlation results. © 2022
+KW  - Acoustics
+KW  - Articulation
+KW  - Parkinson's disease
+KW  - Phonation
+KW  - Speech
+KW  - Voice
+KW  - Humans
+KW  - Parkinson Disease
+KW  - Speech
+KW  - Speech Disorders
+KW  - Voice
+KW  - Neurodegenerative diseases
+KW  - Signal analysis
+KW  - Speech recognition
+KW  - Analysis method
+KW  - Articulation
+KW  - Automatic analysis
+KW  - Computerized analysis
+KW  - Healthy controls
+KW  - Parkinson's disease
+KW  - Phonation
+KW  - Signal features
+KW  - Signals analysis
+KW  - Systematic Review
+KW  - adult
+KW  - dimensionality reduction
+KW  - disease severity
+KW  - effect size
+KW  - feature selection
+KW  - female
+KW  - human
+KW  - male
+KW  - Parkinson disease
+KW  - phonation
+KW  - Review
+KW  - signal processing
+KW  - speech analysis
+KW  - speech articulation
+KW  - speech test
+KW  - systematic review
+KW  - voice analysis
+KW  - Parkinson disease
+KW  - physiology
+KW  - speech
+KW  - speech disorder
+KW  - voice
+KW  - Large dataset
+PB  - Elsevier Ireland Ltd
+SN  - 01692607 (ISSN)
+C2  - 36183641
+LA  - English
+J2  - Comput. Methods Programs Biomed.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 64; Correspondence Address: D. Kumar; Biosignals Lab, RMIT University, Melbourne, Australia; email: dinesh.kumar@rmit.edu.au; CODEN: CMPBE
+ER  -
+
+TY  - JOUR
+AU  - Dhivyaa, C.R.
+AU  - Nithya, K.
+AU  - Anbukkarasi, S.
+TI  - Enhancing Parkinson's Disease Detection and Diagnosis: A Survey of Integrative Approaches Across Diverse Modalities
+PY  - 2024
+T2  - IEEE Access
+VL  - 12
+SP  - 158999
+EP  - 159024
+DO  - 10.1109/ACCESS.2024.3487001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208377487&doi=10.1109%2fACCESS.2024.3487001&partnerID=40&md5=54b9ab2648ab25a0fe6e71e4e1ea3274
+AD  - Vellore Institute of Technology, School of Computer Science and Engineering, Tamil Nadu, Vellore, 632014, India
+AD  - SRM Institute of Science and Technology, Department of Computer Science and Engineering, Tamil Nadu, Tiruchirappalli, 621105, India
+AB  - Parkinson's disease (PD) is a chronic neurodegenerative illness that affects the brain and central nervous system, leading to issues with pain, mobility, mood, and sleep. Early and precise diagnosis is vital for effective medical intervention and enhancing the quality level of life for patients. This review provides an extensive overview of current PD detection methods, emphasizing the integration of neuroimaging techniques, clinical data, and advanced computational algorithms. A wide range of neuroimaging modalities are examined by highlighting their roles in identifying structural and functional brain changes linked to PD. The review also explores the potential of datasets such as handwritten samples, Electroencephalography (EEG), Electrocardiography (ECG), voice recordings, gait analysis, and sensor data for PD detection. The review discusses various stages of data processing, including preprocessing, segmentation, and feature extraction, essential for improving the accuracy and efficiency of diagnostic models. The application of machine learning, deep learning, and transfer learning models for PD classification and prediction is reviewed, focusing on feature selection, model optimization, and the utilization of large, diverse datasets. AI systems can provide reliable and accurate Parkinson's disease (PD) identification, enabling more efficient and prompt therapeutic treatments, by utilizing these sophisticated algorithms and a variety of datasets. © 2013 IEEE.
+KW  - dataset
+KW  - machine learning
+KW  - Parkinsons disease
+KW  - segmentation
+KW  - transfer learning
+KW  - Contrastive Learning
+KW  - Deep learning
+KW  - Electrocardiography
+KW  - Functional neuroimaging
+KW  - Neurodegenerative diseases
+KW  - Transfer learning
+KW  - Central nervous systems
+KW  - Dataset
+KW  - Detection and diagnosis
+KW  - Disease detection
+KW  - Disease diagnosis
+KW  - Machine-learning
+KW  - Neurodegenerative
+KW  - Parkinson's disease
+KW  - Segmentation
+KW  - Transfer learning
+KW  - Electroencephalography
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 3; Correspondence Address: C.R. Dhivyaa; Vellore Institute of Technology, School of Computer Science and Engineering, Vellore, Tamil Nadu, 632014, India; email: dhivyaa.cr@vit.ac.in
+ER  -
+
+TY  - JOUR
+AU  - Gattoni, M.F.
+AU  - Gobbo, S.
+AU  - Feroldi, S.
+AU  - Salvatore, A.
+AU  - Navarro, J.
+AU  - Sorbi, S.
+AU  - Saibene, F.L.
+TI  - Identification of Cognitive Training for Individuals with Parkinson’s Disease: A Systematic Review
+PY  - 2025
+T2  - Brain Sciences
+VL  - 15
+IS  - 1
+C7  - 61
+DO  - 10.3390/brainsci15010061
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216017993&doi=10.3390%2fbrainsci15010061&partnerID=40&md5=098128d4841ff14b8dcdf5b542788a60
+AD  - IRCCS Fondazione Don Carlo Gnocchi ONLUS, Milan, 20148, Italy
+AD  - Department of Statistics, Informatics, Applications “G. Parenti”, University of Florence, Florence, 50134, Italy
+AD  - Department of Psychology, University of Milan-Bicocca, Milan, 20126, Italy
+AD  - IRCCS Fondazione Don Carlo Gnocchi ONLUS, Florence, 50143, Italy
+AB  - Background/Objectives: Parkinson’s disease (PD) is a neurodegenerative disorder, characterised by cardinal motor features and a multitude of non-motor manifestations. Among them, cognitive impairment in PD has been recognised as a defined clinical entity, and it might lead to an increased risk of developing dementia. Consequently, the present review aimed to ascertain the available interventions for the training of cognitive abilities in persons with PD (PwPD). Methods: PRISMA guidelines were followed to select studies in the following databases: PubMed, PsycINFO, and Web of Science. Two independent reviewers conducted the different phases of the review, and a third expert was called in to address any doubts/conflicts. Randomised controlled trials and randomised clinical trials concerning cognitive training with cognitive outcomes in PwPD were selected. Results: A total of 28 articles were included. The considered studies applied various experimental interventions for the training of cognitive functions in PwPD: computer-based platforms, exergames, paper-and-pencil programmes, dual-task or treadmill training with action observation therapy, motor imagery, and virtual reality components, interventions targeting precise cognitive domain, tele-rehabilitation, transcranial direct current stimulation, structured cognitive training, and multimodal treatments. Cognitive functions were assessed employing neuropsychological tests, self-report questionnaires, and computerised batteries. Conclusions: Overall, the review reported better performances in the experimental groups compared to the control groups, in several cognitive domains. Structured cognitive training emerged as the most effective strategy to enhance cognitive functioning in PwPD. However, further studies are necessary to determine the most appropriate and useful training and to develop interventions that also consider patients’ quality of life. © 2025 by the authors.
+KW  - cognition
+KW  - cognitive functions
+KW  - cognitive rehabilitation
+KW  - cognitive training
+KW  - Parkinson’s disease
+KW  - PD
+KW  - systematic review
+KW  - action observation therapy
+KW  - Addenbrooke cognitive examination III
+KW  - Addenbrooke cognitive examination revised
+KW  - Aphasia Check list
+KW  - assessment of humans
+KW  - Behavioural Assessment of the Dysexecutive Syndrome
+KW  - Boston naming test
+KW  - California verbal learning test
+KW  - clock drawing test
+KW  - cognition
+KW  - cognitive defect
+KW  - cognitive rehabilitation
+KW  - Corsi’s block tapping test
+KW  - data quality assessment
+KW  - Hoehn and Yahr scale
+KW  - human
+KW  - medical procedures
+KW  - Mini Mental State Examination
+KW  - Montreal cognitive assessment
+KW  - neuropsychological assessment
+KW  - outcome assessment
+KW  - Parkinson disease
+KW  - physical disease by body function
+KW  - physiotherapy
+KW  - Postural Instability and Gait Disorder
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - processing speed
+KW  - randomized controlled trial (topic)
+KW  - Raven’s Coloured Progressive Matrices
+KW  - Review
+KW  - Rey auditory verbal learning test
+KW  - Rey Osterrieth complex figure test
+KW  - speech therapy
+KW  - Stroop test
+KW  - systematic review
+KW  - telemedicine
+KW  - telerehabilitation
+KW  - theory of mind
+KW  - timed up and go test
+KW  - trail making test
+KW  - training
+KW  - transcranial direct current stimulation
+KW  - treadmill training
+KW  - Unified Parkinson Disease Rating Scale
+KW  - virtual reality
+KW  - visual memory
+KW  - Wechsler adult intelligence scale
+KW  - Weigl’s Sorting Test
+KW  - working memory
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20763425 (ISSN)
+LA  - English
+J2  - Brain Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: S. Feroldi; IRCCS Fondazione Don Carlo Gnocchi ONLUS, Milan, 20148, Italy; email: sferoldi@dongnocchi.it
+ER  -
+
+TY  - JOUR
+AU  - Abumalloh, R.A.
+AU  - Nilashi, M.
+AU  - Samad, S.
+AU  - Ahmadi, H.
+AU  - Alghamdi, A.
+AU  - Alrizq, M.
+AU  - Alyami, S.
+TI  - Parkinson's disease diagnosis using deep learning: A bibliometric analysis and literature review
+PY  - 2024
+T2  - Ageing Research Reviews
+VL  - 96
+C7  - 102285
+DO  - 10.1016/j.arr.2024.102285
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189823326&doi=10.1016%2fj.arr.2024.102285&partnerID=40&md5=dccf43a166d5ce5aaa04ae1c4b140cc6
+AD  - Department of Computer Science and Engineering, Qatar University, Doha, 2713, Qatar
+AD  - Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam
+AD  - School of Computer Science, Duy Tan University, Da Nang, Viet Nam
+AD  - UCSI Graduate Business School, UCSI University, No. 1 Jalan Menara Gading, UCSI Heights, Cheras, Kuala Lumpur, 56000, Malaysia
+AD  - Centre for Global Sustainability Studies (CGSS), Universiti Sains Malaysia, Penang, 11800, Malaysia
+AD  - Faculty of Business, UNITAR International University, Tierra Crest, Jalan SS6/3, Petaling Jaya, Selangor, 47301, Malaysia
+AD  - Centre for Health Technology, Faculty of Health, University of Plymouth, Plymouth, PL4 8AA, United Kingdom
+AD  - Information Systems Dept., College of Computer Science and Information Systems, Najran University, Najran, Saudi Arabia
+AD  - AI Lab, Scientific and Engineering Research Center (SERC), Najran University, Najran, Saudi Arabia
+AD  - Computer Science Dept., College of Computer Science and Information Systems, Najran University, Najran, Saudi Arabia
+AB  - Parkinson's Disease (PD) is a progressive neurodegenerative illness triggered by decreased dopamine secretion. Deep Learning (DL) has gained substantial attention in PD diagnosis research, with an increase in the number of published papers in this discipline. PD detection using DL has presented more promising outcomes as compared with common machine learning approaches. This article aims to conduct a bibliometric analysis and a literature review focusing on the prominent developments taking place in this area. To achieve the target of the study, we retrieved and analyzed the available research papers in the Scopus database. Following that, we conducted a bibliometric analysis to inspect the structure of keywords, authors, and countries in the surveyed studies by providing visual representations of the bibliometric data using VOSviewer software. The study also provides an in-depth review of the literature focusing on different indicators of PD, deployed approaches, and performance metrics. The outcomes indicate the firm development of PD diagnosis using DL approaches over time and a large diversity of studies worldwide. Additionally, the literature review presented a research gap in DL approaches related to incremental learning, particularly in relation to big data analysis. © 2024
+KW  - Bibliometric Analysis
+KW  - Big Data Analysis
+KW  - Deep Learning
+KW  - Literature Review
+KW  - Parkinson's Disease
+KW  - Bibliometrics
+KW  - Databases, Factual
+KW  - Deep Learning
+KW  - Dopamine
+KW  - Humans
+KW  - Parkinson Disease
+KW  - dopamine
+KW  - bibliometrics
+KW  - big data
+KW  - deep learning
+KW  - electroencephalography
+KW  - handwriting
+KW  - human
+KW  - imaging
+KW  - Parkinson disease
+KW  - Review
+KW  - Scopus
+KW  - software
+KW  - voice disorder
+KW  - Web of Science
+KW  - writing
+KW  - bibliometrics
+KW  - factual database
+PB  - Elsevier Ireland Ltd
+SN  - 15681637 (ISSN)
+C2  - 38554785
+LA  - English
+J2  - Ageing Res. Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 15; Correspondence Address: M. Nilashi; Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam; email: mehrbakhsh@ucsiuniversity.edu.my; CODEN: ARRGA
+ER  -
+
+TY  - JOUR
+AU  - van Gelderen, L.
+AU  - Tejedor-García, C.
+TI  - Innovative Speech-Based Deep Learning Approaches for Parkinson’s Disease Classification: A Systematic Review
+PY  - 2024
+T2  - Applied Sciences (Switzerland)
+VL  - 14
+IS  - 17
+C7  - 7873
+DO  - 10.3390/app14177873
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203853561&doi=10.3390%2fapp14177873&partnerID=40&md5=950bb089518a1fb7028b6b04470dd451
+AD  - Centre for Language Studies, Radboud University, Nijmegen, 6500 HD, Netherlands
+AB  - Parkinson’s disease (PD), the second most prevalent neurodegenerative disorder worldwide, frequently presents with early-stage speech impairments. Recent advancements in Artificial Intelligence (AI), particularly deep learning (DL), have significantly enhanced PD diagnosis through the analysis of speech data. Nevertheless, the progress of research is restricted by the limited availability of publicly accessible speech-based PD datasets, primarily due to privacy concerns. The goal of this systematic review is to explore the current landscape of speech-based DL approaches for PD classification, based on 33 scientific works published between January 2020 and March 2024. We discuss their available resources, capabilities, and potential limitations, and issues related to bias, explainability, and privacy. Furthermore, this review provides an overview of publicly accessible speech-based datasets and open-source material for PD. The DL approaches identified are categorized into end-to-end (E2E) learning, transfer learning (TL), and deep acoustic feature extraction (DAFE). Among E2E approaches, Convolutional Neural Networks (CNNs) are prevalent, though Transformers are increasingly popular. E2E approaches face challenges such as limited data and computational resources, especially with Transformers. TL addresses these issues by providing more robust PD diagnosis and better generalizability across languages. DAFE aims to improve the explainability and interpretability of results by examining the specific effects of deep features on both other DL approaches and more traditional machine learning (ML) methods. However, it often underperforms compared to E2E and TL approaches. © 2024 by the authors.
+KW  - Artificial Intelligence
+KW  - deep acoustic feature extraction
+KW  - deep learning
+KW  - end-to-end
+KW  - Parkinson’s disease
+KW  - speech classification
+KW  - speech diagnosis
+KW  - speech processing
+KW  - transfer learning
+KW  - Contrastive Learning
+KW  - Convolutional neural networks
+KW  - Data privacy
+KW  - Deep learning
+KW  - Federated learning
+KW  - Transfer learning
+KW  - Acoustic feature extraction
+KW  - Deep acoustic feature extraction
+KW  - Deep learning
+KW  - Disease classification
+KW  - End to end
+KW  - Learning approach
+KW  - Parkinson’s disease
+KW  - Speech classification
+KW  - Speech diagnose
+KW  - Transfer learning
+KW  - Adversarial machine learning
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20763417 (ISSN)
+LA  - English
+J2  - Appl. Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 5; Correspondence Address: C. Tejedor-García; Centre for Language Studies, Radboud University, Nijmegen, 6500 HD, Netherlands; email: cristian.tejedorgarcia@ru.nl
+ER  -
+
+TY  - JOUR
+AU  - Rusz, J.
+AU  - Krack, P.
+AU  - Tripoliti, E.
+TI  - From prodromal stages to clinical trials: The promise of digital speech biomarkers in Parkinson's disease
+PY  - 2024
+T2  - Neuroscience and Biobehavioral Reviews
+VL  - 167
+C7  - 105922
+DO  - 10.1016/j.neubiorev.2024.105922
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207034898&doi=10.1016%2fj.neubiorev.2024.105922&partnerID=40&md5=7f0f32fe6979041f54cb5e38c5b98259
+AD  - Department of Circuit Theory, Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Republic
+AD  - Movement Disorders Center, Department of Neurology, University Hospital of Bern, Bern, Switzerland
+AD  - UCL, Institute of Neurology, Department of Clinical and Movement Neurosciences, and National Hospital for Neurology and Neurosurgery, UCLH NHS Trust, London, United Kingdom
+AB  - Speech impairment is a common and disabling symptom in Parkinson's disease (PD), affecting communication and quality of life. Advances in digital speech processing and artificial intelligence have revolutionized objective speech analysis. Given the complex nature of speech impairment, acoustic speech analysis offers unique biomarkers for neuroprotective treatments from the prodromal stages of PD. Digital speech biomarkers can monitor levodopa-induced motor complications, detect the effects of deep brain stimulation, and provide feedback for behavioral speech therapy. This review updates the mechanisms underlying speech impairment, the impact of speech phenotypes, and the effects of interventions on speech. We evaluate the strengths, potential weaknesses, and suitability of promising digital speech biomarkers in PD for capturing disease progression and treatment efficacy. Additionally, we explore the translational potential of PD speech biomarkers to other neuropsychiatric diseases, offering insights into motion, cognition, and emotion. Finally, we highlight knowledge gaps and suggest directions for future research to enhance the use of quantitative speech measures in disease-modifying clinical trials. The findings demonstrate that one year is sufficient to detect disease progression in early PD through speech biomarkers. Voice quality, pitch, loudness, and articulation measures appear to capture the efficacy of treatment interventions most effectively. Certain speech features, such as loudness and articulation rate, behave oppositely in different neurological diseases, offering valuable insights for differential diagnosis. In conclusion, this review highlights speech as a biomarker in tracking disease progression, especially in the prodromal stages of PD, and calls for further longitudinal studies to establish its efficacy across diverse populations. © 2024 The Authors
+KW  - Acoustic
+KW  - Dysarthria
+KW  - Machine learning
+KW  - Neurological diseases
+KW  - Parkinson's disease
+KW  - Speech
+KW  - Voice
+KW  - Biomarkers
+KW  - Clinical Trials as Topic
+KW  - Disease Progression
+KW  - Humans
+KW  - Parkinson Disease
+KW  - Prodromal Symptoms
+KW  - Speech
+KW  - Speech Disorders
+KW  - biological marker
+KW  - levodopa
+KW  - adult
+KW  - artificial intelligence
+KW  - brain depth stimulation
+KW  - cognition
+KW  - differential diagnosis
+KW  - dysarthria
+KW  - electric potential
+KW  - emotion
+KW  - human
+KW  - knowledge gap
+KW  - longitudinal study
+KW  - loudness
+KW  - machine learning
+KW  - mental disease
+KW  - motor neuron disease
+KW  - neurologic disease
+KW  - neuroprotection
+KW  - Parkinson disease
+KW  - phenotype
+KW  - quality of life
+KW  - review
+KW  - speech
+KW  - speech analysis
+KW  - speech disorder
+KW  - speech therapy
+KW  - therapy
+KW  - voice
+KW  - clinical trial (topic)
+KW  - diagnosis
+KW  - disease exacerbation
+KW  - etiology
+KW  - metabolism
+KW  - pathophysiology
+KW  - physiology
+KW  - prodromal symptom
+KW  - speech
+PB  - Elsevier Ltd
+SN  - 01497634 (ISSN)
+C2  - 39424108
+LA  - English
+J2  - Neurosci. Biobehav. Rev.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 16; Correspondence Address: J. Rusz; Department of Circuit Theory, Czech Technical University in Prague, Prague, Technická 2, 160 00, Czech Republic; email: rusz.mz@gmail.com; CODEN: NBRED
+ER  -
+
+TY  - JOUR
+AU  - Alzubaidi, M.S.
+AU  - Shah, U.
+AU  - Dhia Zubaydi, H.
+AU  - Dolaat, K.
+AU  - Abd-Alrazaq, A.A.
+AU  - Ahmed, A.
+AU  - Househ, M.
+TI  - The role of neural network for the detection of parkinson’s disease: A scoping review
+PY  - 2021
+T2  - Healthcare (Switzerland)
+VL  - 9
+IS  - 6
+C7  - 740
+DO  - 10.3390/healthcare9060740
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108871865&doi=10.3390%2fhealthcare9060740&partnerID=40&md5=7b14bbea8a646595ef6276c938c8bb37
+AD  - College of Science and Engineering, Hamad Bin Khalifa University, Doha, 53, Qatar
+AD  - National Advanced IPv6 Centre, Universiti Sains Malaysia, Gelugor, 11800, Malaysia
+AB  - Background: Parkinson’s Disease (PD) is a chronic neurodegenerative disorder that has been ranked second after Alzheimer’s disease worldwide. Early diagnosis of PD is crucial to combat against PD to allow patients to deal with it properly. However, there is no medical test(s) available to diagnose PD conclusively. Therefore, computer-aided diagnosis (CAD) systems offered a better solution to make the necessary data-driven decisions and assist the physician. Numerous studies were conducted to propose CAD to diagnose PD in the early stages. No comprehensive reviews have been conducted to summarize the role of AI tools to combat PD. Objective: The study aimed to explore and summarize the applications of neural networks to diagnose PD. Methods: PRISMA Extension for Scoping Reviews (PRISMA-ScR) was followed to conduct this scoping review. To identify the relevant studies, both medical databases (e.g., PubMed) and technical databases (IEEE) were searched. Three reviewers carried out the study selection and extracted the data from the included studies independently. Then, the narrative approach was adopted to synthesis the extracted data. Results: Out of 1061 studies, 91 studies satisfied the eligibility criteria in this review. About half of the included studies have implemented artificial neural networks to diagnose PD. Numerous studies included focused on the freezing of gait (FoG). Biomedical voice and signal datasets were the most commonly used data types to develop and validate these models. However, MRI-and CT-scan images were also utilized in the included studies. Conclusion: Neural networks play an integral and substantial role in combating PD. Many possible applications of neural networks were identified in this review, however, most of them are limited up to research purposes. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Classification
+KW  - Deep learning
+KW  - Neural network
+KW  - Parkinson’s disease
+PB  - MDPI AG
+SN  - 22279032 (ISSN)
+LA  - English
+J2  - Healthcare (Basel)
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 52; Correspondence Address: M.S. Alzubaidi; College of Science and Engineering, Hamad Bin Khalifa University, Doha, 53, Qatar; email: maal28902@hbku.edu.qa; M. Househ; College of Science and Engineering, Hamad Bin Khalifa University, Doha, 53, Qatar; email: mhouseh@hbku.edu.qa
+ER  -
+
+TY  - JOUR
+AU  - Wright, H.
+AU  - Aharonson, V.
+TI  - Vocal Feature Changes for Monitoring Parkinson’s Disease Progression—A Systematic Review
+PY  - 2025
+T2  - Brain Sciences
+VL  - 15
+IS  - 3
+C7  - 320
+DO  - 10.3390/brainsci15030320
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001229710&doi=10.3390%2fbrainsci15030320&partnerID=40&md5=89a6600e242eb8c7f0937e8ec2f59c1d
+AD  - School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, 2050, South Africa
+AD  - Department of Basic and Clinical Sciences, Medical School University of Nicosia, Nicosia, CY-1700, Cyprus
+AB  - Background: Parkinson’s disease has a significant impact on vocal characteristics and speech patterns, making them potential biomarkers for monitoring disease progression. To effectively utilise these biomarkers, it is essential to understand how they evolve over time as this degenerative disease progresses. Objectives: This review aims to identify the most used vocal features in Parkinson’s disease monitoring and to track the temporal changes observed in each feature. Methods: An online database search was conducted to identify studies on voice and speech changes associated with Parkinson’s disease progression. The analysis examined the features and their temporal changes to identify potential feature classes and trends. Results: Eighteen features were identified and categorised into three main aspects of speech: articulation, phonation and prosody. While twelve of these features exhibited measurable variations in Parkinsonian voices compared to those of healthy individuals, insights into long-term changes were limited. Conclusions: Vocal features can effectively discriminate Parkinsonian voices and may be used to monitor changes through disease progression. These changes remain underexplored and necessitate more evidence from long-term studies. The additional evidence could provide clinical insights into the disease and enhance the effectiveness of automated voice-based monitoring. © 2025 by the authors.
+KW  - monitoring
+KW  - Parkinson’s disease
+KW  - progression
+KW  - vocal features
+KW  - apraxia of speech
+KW  - artificial neural network
+KW  - behavior assessment
+KW  - cognition
+KW  - cross validation
+KW  - degenerative disease
+KW  - disease duration
+KW  - disease exacerbation
+KW  - disease severity
+KW  - entropy
+KW  - excitation and stimulation
+KW  - human
+KW  - joint
+KW  - machine learning
+KW  - nervousness
+KW  - Parkinson disease
+KW  - parkinsonism
+KW  - perception
+KW  - phonation
+KW  - prosody
+KW  - REM sleep
+KW  - Review
+KW  - self evaluation
+KW  - signal noise ratio
+KW  - speech rate
+KW  - systematic review
+KW  - Unified Parkinson Disease Rating Scale
+KW  - vocalization
+KW  - voice analysis
+KW  - vowel
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20763425 (ISSN)
+LA  - English
+J2  - Brain Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: H. Wright; School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, 2050, South Africa; email: helen.wright@wits.ac.za
+ER  -
+
+TY  - JOUR
+AU  - Rodrigues, J.N.A.
+AU  - De Melo Souza Veras, R.
+AU  - De Sousa Britto Neto, L.
+AU  - Henrique Ximenes Ramalho Barros, P.
+AU  - Da Silva Moura, W.
+AU  - James Silva De Almeida, K.
+AU  - Romulo Teixeira Aires, K.
+TI  - Identification of Parkinson's Disease Through Facial Image Classification: A Systematic Review
+PY  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 46720
+EP  - 46731
+DO  - 10.1109/ACCESS.2025.3549694
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001481096&doi=10.1109%2fACCESS.2025.3549694&partnerID=40&md5=a6c3d3edf3da839bc58d588ddd8971b4
+AD  - Instituto Federal de Educação, Ciência e Tecnologia Do Piauí, Departamento de Ensino/Computação, Piauí, Angical, 64410-000, Brazil
+AD  - Universidade Federal Do Piauí, Departamento de Computação, Piauí, Teresina, 64049-550, Brazil
+AD  - Universidade Federal Do Piauí, Departamento de Medicina Especializada, Piauí, Teresina, 64049-550, Brazil
+AD  - Universidade de São Paulo FOB-USP, Departamento de Ortodontia, Bauru, São Paulo, 17012-901, Brazil
+AB  - Parkinson's Disease (PD) is one of the most prevalent neurological conditions, affecting a significant portion of the elderly population worldwide. Characterized by motor symptoms such as tremors, rigidity, and bradykinesia, as well as non-motor symptoms like hypomimia (reduced facial expressiveness), PD presents significant diagnostic challenges, especially in its early stages. In this context, this systematic review (SR) aims to explore machine learning and deep learning techniques in detecting PD through facial image analysis. The study identifies the key works in the field, the computational techniques employed, and the datasets used. The main findings suggest that facial phenotyping can be a strong indicator for the early diagnosis of PD. Various approaches, including Convolutional Neural Networks (CNNs) and other deep learning models, have shown promise in detecting subtle changes in facial expressions associated with hypomimia. Integrating multimodal data sources, such as voice recordings, hand-drawn sketches, movement analysis, and facial images, has also demonstrated the potential to enhance diagnostic accuracy. This review highlights the potential of facial image analysis as an innovative approach for the early detection of PD, which could lead to more timely and effective interventions.  © 2013 IEEE.
+KW  - convolutional neural networks
+KW  - deep learning
+KW  - facial image analysis
+KW  - hypomimia detection
+KW  - machine learning
+KW  - Parkinsona's disease
+KW  - Adversarial machine learning
+KW  - Contrastive Learning
+KW  - Deep neural networks
+KW  - Image enhancement
+KW  - Motion analysis
+KW  - Neurodegenerative diseases
+KW  - Convolutional neural network
+KW  - Deep learning
+KW  - Facial analysis
+KW  - Facial images
+KW  - Hypomimium
+KW  - Image analyze
+KW  - Image-analysis
+KW  - Machine-learning
+KW  - Parkinson's disease
+KW  - Systematic Review
+KW  - Convolutional neural networks
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 21693536 (ISSN)
+LA  - English
+J2  - IEEE Access
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: J.N.A. Rodrigues; Instituto Federal de Educação, Ciência e Tecnologia Do Piauí, Departamento de Ensino/Computação, Angical, Piauí, 64410-000, Brazil; email: jose.nazareno@ifpi.edu.br
+ER  -
+
+TY  - JOUR
+AU  - Palmirotta, C.
+AU  - Aresta, S.
+AU  - Battista, P.
+AU  - Tagliente, S.
+AU  - Lagravinese, G.
+AU  - Mongelli, D.
+AU  - Gelao, C.
+AU  - Fiore, P.
+AU  - Castiglioni, I.
+AU  - Minafra, B.
+AU  - Salvatore, C.
+TI  - Unveiling the Diagnostic Potential of Linguistic Markers in Identifying Individuals with Parkinson’s Disease through Artificial Intelligence: A Systematic Review
+PY  - 2024
+T2  - Brain Sciences
+VL  - 14
+IS  - 2
+C7  - 137
+DO  - 10.3390/brainsci14020137
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186269686&doi=10.3390%2fbrainsci14020137&partnerID=40&md5=564b0e5c19320aa23be6589bba1af20b
+AD  - Istituti Clinici Scientifici Maugeri IRCCS, Laboratory of Neuropsychology, Bari Institute, Bari, 70124, Italy
+AD  - Istituti Clinici Scientifici Maugeri IRCCS, Neurorehabilitation Unit of Bari Institute, Bari, 70124, Italy
+AD  - Department of Physical and Rehabilitation Medicine, University of Foggia, Foggia, 71122, Italy
+AD  - Department of Physics G. Occhialini, University of Milan-Bicocca, Milan, 20133, Italy
+AD  - Department of Science, Technology and Society, University School for Advanced Studies IUSS Pavia, Pavia, 27100, Italy
+AD  - DeepTrace Technologies S.R.L., Milan, 20122, Italy
+AB  - While extensive research has documented the cognitive changes associated with Parkinson’s disease (PD), a relatively small portion of the empirical literature investigated the language abilities of individuals with PD. Recently, artificial intelligence applied to linguistic data has shown promising results in predicting the clinical diagnosis of neurodegenerative disorders, but a deeper investigation of the current literature available on PD is lacking. This systematic review investigates the nature of language disorders in PD by assessing the contribution of machine learning (ML) to the classification of patients with PD. A total of 10 studies published between 2016 and 2023 were included in this review. Tasks used to elicit language were mainly structured or unstructured narrative discourse. Transcriptions were mostly analyzed using Natural Language Processing (NLP) techniques. The classification accuracy (%) ranged from 43 to 94, sensitivity (%) ranged from 8 to 95, specificity (%) ranged from 3 to 100, AUC (%) ranged from 32 to 97. The most frequent optimal linguistic measures were lexico-semantic (40%), followed by NLP-extracted features (26%) and morphological consistency features (20%). Artificial intelligence applied to linguistic markers provides valuable insights into PD. However, analyzing measures derived from narrative discourse can be time-consuming, and utilizing ML requires specialized expertise. Moving forward, it is important to focus on facilitating the integration of both narrative discourse analysis and artificial intelligence into clinical practice. © 2024 by the authors.
+KW  - automated classification
+KW  - discourse
+KW  - machine learning
+KW  - narrative speech
+KW  - natural language processing
+KW  - PD
+KW  - artificial intelligence
+KW  - data analysis
+KW  - data extraction
+KW  - data quality
+KW  - data quality assessment
+KW  - human
+KW  - information processing
+KW  - information retrieval
+KW  - inner speech
+KW  - language ability
+KW  - machine learning
+KW  - natural language processing
+KW  - Parkinson disease
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - Review
+KW  - sensitivity and specificity
+KW  - systematic review
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20763425 (ISSN)
+LA  - English
+J2  - Brain Sci.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 10; Correspondence Address: P. Battista; Istituti Clinici Scientifici Maugeri IRCCS, Laboratory of Neuropsychology, Bari Institute, Bari, 70124, Italy; email: petronilla.battista@icsmaugeri.it
+ER  -
+
+TY  - JOUR
+AU  - Patwekar, M.
+AU  - Patwekar, F.
+AU  - Sanaullah, S.
+AU  - Shaikh, D.
+AU  - Almas, U.
+AU  - Sharma, R.
+TI  - Harnessing artificial intelligence for enhanced Parkinson’s disease management: Pathways, treatment, and prospects
+PY  - 2023
+T2  - Trends in Immunotherapy
+VL  - 7
+IS  - 2
+C7  - 2395
+DO  - 10.24294/ti.v7.i2.2395
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181887244&doi=10.24294%2fti.v7.i2.2395&partnerID=40&md5=cd82cd0b0e1e94bc1b5e8028abaed58d
+AD  - Luqman College of Pharmacy, Karnataka, Gulbarga, 585102, India
+AD  - Department of Rasa Shastra and Bhaishajya Kalpana, Faculty of Ayurveda, Institute of Medical Sciences, Banaras Hindu University, Uttar Pradesh, Varanasi, 221005, India
+AB  - Parkinson’s disease (PD) is a neurodegenerative disorder characterized by the accumulation of misfolded proteins and impaired protein degradation mechanisms. Dysregulation of protein degradation processes, including autophagy and the ubiquitin-proteasome system, has been implicated in the pathogenesis of PD. Recently, artificial intelligence (AI) has emerged as a powerful tool to enhance our understanding of protein degradation in PD. This abstract provides an overview of the advancements in studying protein degradation in PD with the aid of AI. The integration of AI techniques, such as machine learning and data mining, has enabled the identification and characterization of protein degradation pathways involved in PD. By analyzing large-scale protein-protein interaction networks, AI algorithms have revealed key interactions and pathways underlying protein degradation dysfunction in PD. Furthermore, AI models can predict the efficiency of protein degradation processes and identify potential targets for enhancing protein degradation in PD, aiding in the development of novel therapeutic interventions.AI-based approaches have also been instrumental in drug discovery and target identification, as they can screen vast databases of compounds to identify potential drugs or small molecules that modulate protein degradation pathways relevant to PD. Additionally, deep learning algorithms have facilitated the analysis of protein structures, predicting protein stability and folding patterns that impact protein degradation. Moreover, AI has played a crucial role in the identification of protein biomarkers associated with protein degradation dysfunction in PD. These biomarkers can aid in early diagnosis and monitoring of the disease, enabling timely intervention and personalized treatment strategies. The advancements presented in this abstract highlight the transformative potential of AI in elucidating the intricate mechanisms of protein degradation in PD. Collaborations between AI researchers, biologists, and clinicians are essential to translate these findings into effective diagnostic tools and therapeutic interventions for PD patients. © 2023 by author(s).
+KW  - artificial intelligence
+KW  - neurodegenerative disorder
+KW  - Parkinson’s disease
+KW  - pathways
+KW  - treatment optimization
+KW  - amantadine
+KW  - apomorphine
+KW  - benzatropine mesilate
+KW  - carbidopa plus levodopa
+KW  - entacapone
+KW  - pramipexole
+KW  - ropinirole
+KW  - rotigotine
+KW  - selegiline
+KW  - tolcapone
+KW  - trihexyphenidyl
+KW  - age
+KW  - artificial intelligence
+KW  - cognitive aging
+KW  - computer aided design
+KW  - data mining
+KW  - decision support system
+KW  - deep learning
+KW  - disorders of mitochondrial functions
+KW  - electroencephalography
+KW  - environmental exposure
+KW  - environmental factor
+KW  - environmental risk
+KW  - genetic variability
+KW  - genome-wide association study
+KW  - human
+KW  - k nearest neighbor
+KW  - learning algorithm
+KW  - nervous system inflammation
+KW  - neuroimaging
+KW  - neuropathology
+KW  - neuropharmacology
+KW  - neurosurgery
+KW  - oxidative stress
+KW  - Parkinson disease
+KW  - personalized medicine
+KW  - protein degradation
+KW  - protein folding
+KW  - protein misfolding
+KW  - protein protein interaction
+KW  - protein stability
+KW  - quality of life
+KW  - random forest
+KW  - Review
+KW  - speech analysis
+KW  - support vector machine
+KW  - symptom
+KW  - synaptic dysfunction
+KW  - systems biology
+KW  - treatment response
+KW  - voice analysis
+PB  - EnPress Publisher, LLC
+SN  - 25735985 (ISSN)
+LA  - English
+J2  - Trends. Immunother.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 5; Correspondence Address: M. Patwekar; Luqman College of Pharmacy, Gulbarga, Karnataka, 585102, India; email: Mohsina.patwekar@gmail.com; R. Sharma; Department of Rasa Shastra and Bhaishajya Kalpana, Faculty of Ayurveda, Institute of Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh, 221005, India; email: rohitsharma@bhu.ac.in
+ER  -
+
+TY  - JOUR
+AU  - Nemade, D.
+AU  - Subramanian, T.
+AU  - Shivkumar, V.
+TI  - An update on medical and surgical treatments of parkinson's disease
+PY  - 2021
+T2  - Aging and Disease
+VL  - 12
+IS  - 4
+SP  - 1021
+EP  - 1035
+DO  - 10.14336/AD.2020.1225
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110318895&doi=10.14336%2fAD.2020.1225&partnerID=40&md5=0c679f9351aebb0aa27af87f719ddffd
+AD  - Department of Neurology, Marshall University, School of Medicine, Huntington, 25701, WV, United States
+AD  - Department of Neurology and Neural and Behavioral Sciences, Penn State University, College of Medicine, Hershey, 17033, PA, United States
+AB  - Parkinson's disease (PD) is characterized by degeneration of dopaminergic neurons in the substantia nigra pars compacta and other neuronal populations. The worldwide prevalence of PD is over 7 million and has been increasing more rapidly than many other neurodegenerative disorders. PD symptoms can be broadly divided into motor (slowness, stiffness, tremor) and non-motor symptoms (such as depression, dementia, psychosis, orthostatic hypotension). Patients can also have prodromal symptoms of rapid eye movement sleep behavior disorder, hyposmia, and constipation. The diagnosis of PD is mainly clinical, but dopamine transporter single-photon emission computed tomography can improve the accuracy of the diagnosis. Dopamine based therapies are used for the treatment of motor symptoms. Non-motor symptoms are treated with other medications such as selective serotonin reuptake inhibitors (depression/anxiety), acetylcholinesterase inhibitors (dementia), and atypical antipsychotics (psychosis). Patients with motor fluctuations or uncontrolled tremor, benefit from deep brain stimulation. Levodopa-carbidopa intestinal gel is an alternative to deep brain stimulation for uncontrolled motor fluctuations. Rehabilitative therapies such as physical, occupational, and speech therapy are important during all stages of the disease. Management of PD is complex but there have been significant advancements in the treatment of motor and non-motor symptoms over the past few years. This review discusses the updates in the medical and surgical management of PD. © 2020 Nemade D et al.
+KW  - Diagnosis
+KW  - Motor fluctuations
+KW  - Parkinson
+KW  - Therapies
+KW  - adenosine A2 receptor agonist
+KW  - amantadine
+KW  - botulinum toxin
+KW  - catechol methyltransferase inhibitor
+KW  - cholinergic receptor blocking agent
+KW  - dopamine receptor stimulating agent
+KW  - dopamine transporter
+KW  - gel
+KW  - istradefylline
+KW  - levodopa
+KW  - levodopa carbidopa intestinal gel
+KW  - monoamine oxidase B inhibitor
+KW  - unclassified drug
+KW  - abdominal pain
+KW  - anticholinergic effect
+KW  - anticoagulant therapy
+KW  - antidepressant activity
+KW  - anxiety
+KW  - apathy
+KW  - autopsy
+KW  - blurred vision
+KW  - brain depth stimulation
+KW  - clinical outcome
+KW  - cognition
+KW  - cognitive behavioral therapy
+KW  - cognitive defect
+KW  - computer assisted tomography
+KW  - confusion
+KW  - controlled release formulation
+KW  - coughing
+KW  - diarrhea
+KW  - disease duration
+KW  - dizziness
+KW  - dopamine transporter single photon emission computed tomography
+KW  - dopaminergic nerve cell
+KW  - drowsiness
+KW  - drug dose reduction
+KW  - drug release
+KW  - eye movement
+KW  - focused ultrasound therapy
+KW  - foot edema
+KW  - gait
+KW  - gambling
+KW  - hallucination
+KW  - human
+KW  - immediate drug release
+KW  - infection
+KW  - injection site infection
+KW  - insomnia
+KW  - liver toxicity
+KW  - Mini Mental State Examination
+KW  - monotherapy
+KW  - Montreal cognitive assessment
+KW  - motoneuron
+KW  - motor dysfunction
+KW  - motor fluctuation
+KW  - motor performance
+KW  - nausea
+KW  - nuclear magnetic resonance imaging
+KW  - occupational therapy
+KW  - orthostatic hypotension
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - phase 3 clinical trial (topic)
+KW  - physiotherapy
+KW  - positron emission tomography
+KW  - prevalence
+KW  - prodromal symptom
+KW  - psychotherapy
+KW  - quality of life
+KW  - randomized controlled trial (topic)
+KW  - REM sleep
+KW  - Review
+KW  - rigidity
+KW  - risk factor
+KW  - sensitivity and specificity
+KW  - single photon emission computed tomography
+KW  - slowness
+KW  - speech therapy
+KW  - stomach emptying
+KW  - substantia nigra
+KW  - substantia nigra pars compacta
+KW  - subthalamic nucleus
+KW  - sustained drug release
+KW  - systematic review (topic)
+KW  - thalamotomy
+KW  - thermometry
+KW  - transcranial magnetic stimulation
+KW  - Unified Parkinson Disease Rating Scale
+KW  - urine composition disorder
+KW  - urine retention
+KW  - xerostomia
+PB  - International Society on Aging and Disease
+SN  - 21525250 (ISSN)
+LA  - English
+J2  - Aging Dis.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 38; Correspondence Address: V. Shivkumar; Department of Neurology, Marshall University, School of Medicine, Huntington, 25701, United States; email: shivkumar@marshall.edu
+ER  -
+
+TY  - JOUR
+AU  - Landolfi, A.
+AU  - Ricciardi, C.
+AU  - Donisi, L.
+AU  - Cesarelli, G.
+AU  - Troisi, J.
+AU  - Vitale, C.
+AU  - Barone, P.
+AU  - Amboni, M.
+TI  - Machine learning approaches in Parkinson’s disease
+PY  - 2021
+T2  - Current Medicinal Chemistry
+VL  - 28
+IS  - 32
+SP  - 6548
+EP  - 6568
+DO  - 10.2174/0929867328999210111211420
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117252213&doi=10.2174%2f0929867328999210111211420&partnerID=40&md5=5437cfb7ee20cac38388104609925fb4
+AD  - Department of Medicine, Surgery and Dentistry, “Scuola Medica Salernitana” Neuroscience section, University of Salerno, Baronissi (SA), Italy
+AD  - Department of Advanced Biomedical Sciences, University Hospital of Naples “Federico II”, Naples, Italy
+AD  - Department of Chemical, Materials and Production Engineering, University of Naples “Federico II”, Naples, Italy
+AD  - Istituto Italiano di Tecnologia, Naples, Italy
+AD  - Theoreo srl, Via degli Ulivi 3, Montecorvino Pugliano (SA), 84090, Italy
+AD  - European Biomedical Research Institute of Salerno (EBRIS), Via S. de Renzi, 3, Salerno (SA), 84125, Italy
+AD  - Department of Motor Science and Wellness, University Parthenope, Naples, Italy
+AD  - Institute of Diagnosis and Care (IDC), Hermitage-Capodimonte, Naples, Italy
+AB  - Background: Parkinson’s disease is the second most frequent neurodegenerative disorder. Its diagnosis is challenging and mainly relies on clinical aspects. At present, no biomarker is available to obtain a diagnosis of certainty in vivo. Objective: The present review aims at describing machine learning algorithms as they have been variably applied to different aspects of Parkinson’s disease diagnosis and characterization. Methods: A systematic search was conducted on PubMed in December 2019, resulting in 230 publications obtained with the following search query: “Machine Learning” “AND” “Parkinson Disease”. Results: The obtained publications were divided into 6 categories, based on different application fields: “Gait Analysis - Motor Evaluation”, “Upper Limb Motor and Tremor Evaluation”, “Handwriting and typing evaluation”, “Speech and Phonation evaluation”, “Neuroimaging and Nuclear Medicine evaluation”, “Metabolomics application”, after excluding the papers of general topic. As a result, a total of 166 articles were analyzed after elimination of papers written in languages other than English or not directly related to the selected topics. Conclusion: Machine learning algorithms are computer-based statistical approaches that can be trained and are able to find common patterns from big amounts of data. The machine learning approaches can help clinicians in classifying patients according to several variables at the same time. © 2021 Bentham Science Publishers.
+KW  - Gait analysis
+KW  - Handwriting analysis
+KW  - Machine learning
+KW  - Metabolomics
+KW  - Neuroimaging
+KW  - Parkinson disease
+KW  - Speech analysis
+KW  - Algorithms
+KW  - Humans
+KW  - Machine Learning
+KW  - Neuroimaging
+KW  - Parkinson Disease
+KW  - clinical feature
+KW  - functional magnetic resonance imaging
+KW  - gait
+KW  - handwriting
+KW  - human
+KW  - machine learning
+KW  - metabolomics
+KW  - motor activity
+KW  - motor performance
+KW  - neuroimaging
+KW  - nuclear magnetic resonance imaging
+KW  - nuclear medicine
+KW  - Parkinson disease
+KW  - phonation
+KW  - positron emission tomography
+KW  - Review
+KW  - single photon emission computed tomography
+KW  - speech analysis
+KW  - systematic review
+KW  - tremor
+KW  - typing
+KW  - upper limb
+KW  - algorithm
+KW  - machine learning
+KW  - Parkinson disease
+PB  - Bentham Science Publishers
+SN  - 09298673 (ISSN)
+C2  - 33430721
+LA  - English
+J2  - Curr. Med. Chem.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 51; Correspondence Address: A. Landolfi; The Department of Medicine, Surgery and Dentistry, “Scuola Medica Salernitana” Neuroscience section, University of Salerno, Baronissi (SA), Italy; email: anlandolfi@unisa.it; CODEN: CMCHE
+ER  -
+
+TY  - JOUR
+AU  - Altham, C.
+AU  - Zhang, H.
+AU  - Pereira, E.
+TI  - Machine learning for the detection and diagnosis of cognitive impairment in Parkinson's Disease: A systematic review
+PY  - 2024
+T2  - PLoS ONE
+VL  - 19
+IS  - 5 May
+C7  - e0303644
+DO  - 10.1371/journal.pone.0303644
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193241835&doi=10.1371%2fjournal.pone.0303644&partnerID=40&md5=157caedfd316e1df19279094e9767c6f
+AD  - Department of Computer Science, Edge Hill University, Lancashire, Ormskirk, United Kingdom
+AB  - Background Parkinson's Disease is the second most common neurological disease in over 60s. Cognitive impairment is a major clinical symptom, with risk of severe dysfunction up to 20 years post-diagnosis. Processes for detection and diagnosis of cognitive impairments are not sufficient to predict decline at an early stage for significant impact. Ageing populations, neurologist shortages and subjective interpretations reduce the effectiveness of decisions and diagnoses. Researchers are now utilising machine learning for detection and diagnosis of cognitive impairment based on symptom presentation and clinical investigation. This work aims to provide an overview of published studies applying machine learning to detecting and diagnosing cognitive impairment, evaluate the feasibility of implemented methods, their impacts, and provide suitable recommendations for methods, modalities and outcomes. Methods To provide an overview of the machine learning techniques, data sources and modalities used for detection and diagnosis of cognitive impairment in Parkinson's Disease, we conducted a review of studies published on the PubMed, IEEE Xplore, Scopus and ScienceDirect databases. 70 studies were included in this review, with the most relevant information extracted from each. From each study, strategy, modalities, sources, methods and outcomes were extracted. Results Literatures demonstrate that machine learning techniques have potential to provide considerable insight into investigation of cognitive impairment in Parkinson's Disease. Our review demonstrates the versatility of machine learning in analysing a wide range of different modalities for the detection and diagnosis of cognitive impairment in Parkinson's Disease, including imaging, EEG, speech and more, yielding notable diagnostic accuracy. Conclusions Machine learning based interventions have the potential to glean meaningful insight from data, and may offer non-invasive means of enhancing cognitive impairment assessment, providing clear and formidable potential for implementation of machine learning into clinical practice. © 2024 Altham et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - Cognitive Dysfunction
+KW  - Humans
+KW  - Machine Learning
+KW  - Parkinson Disease
+KW  - cognitive defect
+KW  - convolutional neural network
+KW  - deep learning
+KW  - human
+KW  - machine learning
+KW  - Parkinson disease
+KW  - Review
+KW  - supervised machine learning
+KW  - systematic review
+KW  - unsupervised machine learning
+KW  - cognitive defect
+KW  - complication
+KW  - Parkinson disease
+PB  - Public Library of Science
+SN  - 19326203 (ISSN)
+C2  - 38753740
+LA  - English
+J2  - PLoS ONE
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 10; Correspondence Address: C. Altham; Department of Computer Science, Edge Hill University, Ormskirk, Lancashire, United Kingdom; email: althamc@edgehill.ac.uk; CODEN: POLNC
+ER  -
+
+TY  - JOUR
+AU  - Rana, A.
+AU  - Dumka, A.
+AU  - Singh, R.
+AU  - Panda, M.K.
+AU  - Priyadarshi, N.
+AU  - Twala, B.
+TI  - Imperative Role of Machine Learning Algorithm for Detection of Parkinson’s Disease: Review, Challenges and Recommendations
+PY  - 2022
+T2  - Diagnostics
+VL  - 12
+IS  - 8
+C7  - 2003
+DO  - 10.3390/diagnostics12082003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137381762&doi=10.3390%2fdiagnostics12082003&partnerID=40&md5=e3bfcc2324202392c3267de60eb82eeb
+AD  - Computer Science Engineering, Veer Madho Singh Bhandari Uttarakhand Technical University, Uttarakhand, Dehradun, 248007, India
+AD  - Department of Computer Science and Engineering, Women Institute of Technology, Uttarakhand Technical University (UTU), Uttarakhand, Dehradun, 248007, India
+AD  - Division of Research and Innovation, Uttaranchal Institute of Technology, Uttaranchal University, Uttarakhand, Dehradun, 248007, India
+AD  - Department of Project Management, Universidad Internacional Iberoamericana, Campeche, 24560, Mexico
+AD  - Department of Electrical Engineering, G.B. Pant Institute of Engineering and Technology, Uttarakhand, Pauri, 246194, India
+AD  - Department of Electrical Engineering, JIS College of Engineering, West Bengal, Kolkata, 741235, India
+AD  - Digital Transformation Portfolio, Tshwane University of Technology, Staatsartillerie Rd, Pretoria West, Pretoria, 0183, South Africa
+AB  - Parkinson’s disease (PD) is a neurodegenerative disease that affects the neural, behavioral, and physiological systems of the brain. This disease is also known as tremor. The common symptoms of this disease are a slowness of movement known as ‘bradykinesia’, loss of automatic movements, speech/writing changes, and difficulty with walking at early stages. To solve these issues and to enhance the diagnostic process of PD, machine learning (ML) algorithms have been implemented for the categorization of subjective disease and healthy controls (HC) with comparable medical appearances. To provide a far-reaching outline of data modalities and artificial intelligence techniques that have been utilized in the analysis and diagnosis of PD, we conducted a literature analysis of research papers published up until 2022. A total of 112 research papers were included in this study, with an examination of their targets, data sources and different types of datasets, ML algorithms, and associated outcomes. The results showed that ML approaches and new biomarkers have a lot of promise for being used in clinical decision-making, resulting in a more systematic and informed diagnosis of PD. In this study, some major challenges were addressed along with a future recommendation. © 2022 by the authors.
+KW  - artificial neural network
+KW  - classification
+KW  - logistic regression
+KW  - machine learning
+KW  - Parkinson’s disease
+KW  - support vector machine
+KW  - amantadine
+KW  - catechol methyltransferase inhibitor
+KW  - cholinergic receptor blocking agent
+KW  - levodopa
+KW  - adult
+KW  - algorithm
+KW  - artificial neural network
+KW  - Bayesian learning
+KW  - confusion
+KW  - diagnostic accuracy
+KW  - discriminant analysis
+KW  - dyskinesia
+KW  - hallucination
+KW  - human
+KW  - insomnia
+KW  - irritability
+KW  - k fold cross validation
+KW  - k nearest neighbor
+KW  - leg swelling
+KW  - logistic regression analysis
+KW  - machine learning
+KW  - nausea
+KW  - nightmare
+KW  - Parkinson disease
+KW  - parkinsonism
+KW  - radial basis function
+KW  - random forest
+KW  - recursive feature elimination
+KW  - Review
+KW  - side effect
+KW  - spinocerebellar degeneration
+KW  - support vector machine
+KW  - systematic review
+KW  - tremor
+KW  - vomiting
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20754418 (ISSN)
+LA  - English
+J2  - Diagn.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 74; Correspondence Address: B. Twala; Digital Transformation Portfolio, Tshwane University of Technology, Pretoria, Staatsartillerie Rd, Pretoria West, 0183, South Africa; email: twalab@tut.ac.za
+ER  -
+
+TY  - JOUR
+AU  - Dhanalakshmi, S.
+AU  - Maanasaa, R.S.
+AU  - Maalikaa, R.S.
+AU  - Senthil, R.
+TI  - A review of emergent intelligent systems for the detection of Parkinson’s disease
+PY  - 2023
+T2  - Biomedical Engineering Letters
+VL  - 13
+IS  - 4
+SP  - 591
+EP  - 612
+DO  - 10.1007/s13534-023-00319-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171543461&doi=10.1007%2fs13534-023-00319-2&partnerID=40&md5=d07e9775d184a5535b7c0e8a49a1d855
+AD  - Department of Electronics and Communication Engineering, SRM Institute of Science and Technology, Kattankulathur, Chennai, 603203, India
+AD  - Department of Mechanical Engineering, SRM Institute of Science and Technology, Kattankulathur, Chennai, 603203, India
+AB  - Parkinson’s disease (PD) is a neurodegenerative disorder affecting people worldwide. The PD symptoms are divided into motor and non-motor symptoms. Detection of PD is very crucial and essential. Such challenges can be overcome by applying artificial intelligence to diagnose PD. Many studies have also proposed the implementation of computer-aided diagnosis for the detection of PD. This systematic review comprehensively analyzed all appropriate algorithms for detecting and assessing PD based on the literature from 2012 to 2023 which are conducted as per PRISMA model. This review focused on motor symptoms, namely handwriting dynamics, voice impairments and gait, multimodal features, and brain observation using single photon emission computed tomography, magnetic resonance and electroencephalogram signals. The significant challenges are critically analyzed, and appropriate recommendations are provided. The critical discussion of this review article can be helpful in today's PD community in such a way that it allows clinicians to provide proper treatment and timely medication. © 2023, Korean Society of Medical and Biological Engineering.
+KW  - Intelligent algorithms
+KW  - Machine learning
+KW  - Neural networks
+KW  - Neurodegenerative disorder
+KW  - Parkinson’s disease
+KW  - Computer aided diagnosis
+KW  - Intelligent systems
+KW  - Magnetic resonance
+KW  - Neurodegenerative diseases
+KW  - Particle beams
+KW  - Disease symptoms
+KW  - Intelligent Algorithms
+KW  - Machine-learning
+KW  - Multimodal features
+KW  - Neural-networks
+KW  - Neurodegenerative disorders
+KW  - Parkinson’s disease
+KW  - Resonance signals
+KW  - Systematic Review
+KW  - Voice impairments
+KW  - accuracy
+KW  - algorithm
+KW  - artificial intelligence
+KW  - artificial neural network
+KW  - computer assisted tomography
+KW  - convolutional neural network
+KW  - decision tree
+KW  - degenerative disease
+KW  - diagnostic accuracy
+KW  - discriminant analysis
+KW  - electroencephalogram
+KW  - electroencephalography
+KW  - endoscopic ultrasonography
+KW  - entropy
+KW  - gait
+KW  - gray matter
+KW  - ground reaction force
+KW  - handwriting
+KW  - human
+KW  - learning algorithm
+KW  - machine learning
+KW  - morphometry
+KW  - motor dysfunction
+KW  - motor dysfunction assessment
+KW  - nerve cell network
+KW  - nuclear magnetic resonance
+KW  - nuclear magnetic resonance imaging
+KW  - Parkinson disease
+KW  - positron emission tomography
+KW  - predictive value
+KW  - principal component analysis
+KW  - quality control
+KW  - quality of life
+KW  - questionnaire
+KW  - receiver operating characteristic
+KW  - Review
+KW  - sensitivity and specificity
+KW  - signal noise ratio
+KW  - single photon emission computed tomography
+KW  - stimulus
+KW  - support vector machine
+KW  - systematic review
+KW  - Unified Parkinson Disease Rating Scale
+KW  - voice disorder
+KW  - Machine learning
+PB  - Springer Verlag
+SN  - 20939868 (ISSN)
+LA  - English
+J2  - Biomed. Eng. Lett.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 9; Correspondence Address: R. Senthil; Department of Mechanical Engineering, SRM Institute of Science and Technology, Kattankulathur, Chennai, 603203, India; email: senthilr@srmist.edu.in
+ER  -
+
+TY  - JOUR
+AU  - Dixit, S.
+AU  - Bohre, K.
+AU  - Singh, Y.
+AU  - Himeur, Y.
+AU  - Mansoor, W.
+AU  - Atalla, S.
+AU  - Srinivasan, K.
+TI  - A Comprehensive Review on AI-Enabled Models for Parkinson’s Disease Diagnosis
+PY  - 2023
+T2  - Electronics (Switzerland)
+VL  - 12
+IS  - 4
+C7  - 783
+DO  - 10.3390/electronics12040783
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149247102&doi=10.3390%2felectronics12040783&partnerID=40&md5=10eb6e0ac577df744809551b8388f085
+AD  - School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, 632014, India
+AD  - School of Computer Science and Engineering, Acropolis Institute of Technology and Research (AITR), Indore, 452001, India
+AD  - Radiology, Mayo Clinic, Rochester, 55902, MN, United States
+AD  - College of Engineering and Information Technology, University of Dubai, Dubai, 4343, United Arab Emirates
+AB  - Parkinson’s disease (PD) is a devastating neurological disease that cannot be identified with traditional plasma experiments, necessitating the development of a faster, less expensive diagnostic instrument. Due to the difficulty of quantifying PD in the past, doctors have tended to focus on some signs while ignoring others, primarily relying on an intuitive assessment scale because of the disease’s characteristics, which include loss of motor control and speech that can be utilized to detect and diagnose this disease. It is an illness that impacts both motion and non-motion functions. It takes years to develop and has a wide range of clinical symptoms and prognoses. Parkinson’s patients commonly display non-motor symptoms such as sleep problems, neurocognitive ailments, and cognitive impairment long before the diagnosis, even though scientists have been working to develop designs for diagnosing and categorizing the disease, only noticeable defects such as movement patterns, speech, or writing skills are offered in this paper. This article provides a thorough analysis of several AI-based ML and DL techniques used to diagnose PD and their influence on developing additional research directions. It follows the guidelines of Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). This review also examines the current state of PD diagnosis and the potential applications of data-driven AI technology. It ends with a discussion of future developments, which aids in filling critical gaps in the current Parkinson’s study. © 2023 by the authors.
+KW  - augmented reality
+KW  - computational intelligence
+KW  - deep learning
+KW  - diagnosis
+KW  - machine learning
+KW  - Parkinson’s disease
+KW  - smartphone
+KW  - virtual reality
+PB  - MDPI
+SN  - 20799292 (ISSN)
+LA  - English
+J2  - Electronics (Switzerland)
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 53; Correspondence Address: K. Srinivasan; School of Computer Science and Engineering, Vellore Institute of Technology, Vellore, 632014, India; email: kathiravan.srinivasan@vit.ac.in
+ER  -
+
+TY  - JOUR
+AU  - Templeton, J.M.
+AU  - Poellabauer, C.
+AU  - Schneider, S.
+AU  - Rahimi, M.
+AU  - Braimoh, T.
+AU  - Tadamarry, F.
+AU  - Margolesky, J.
+AU  - Burke, S.
+AU  - Al Masry, Z.
+TI  - Modernizing the Staging of Parkinson Disease Using Digital Health Technology
+PY  - 2025
+T2  - Journal of Medical Internet Research
+VL  - 27
+C7  - e63105
+DO  - 10.2196/63105
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105002049032&doi=10.2196%2f63105&partnerID=40&md5=a0ee7db003750d3a333bf7e19688e73c
+AD  - Bellini College of Artificial Intelligence, Cybersecurity, and Computing, University of South Florida, Tampa, FL, United States
+AD  - Department of Medical Engineering, University of South Florida, Tampa, United States
+AD  - Knight Foundation School of Computing and Information Sciences, Florida International University, Miami, FL, United States
+AD  - Department of Communicative Sciences and Disorders, Saint Mary's College, Notre Dame, IN, United States
+AD  - Department of Neurology, Miller School of Medicine, University of Miami, Miami, FL, United States
+AD  - Robert Stempel College of Public Health & Social Work, Florida International University, Miami, FL, United States
+AD  - FEMTO-ST Institute, Ecole Nationale Supérieure de Mécanique et des Mécatroniques, Besançon, France
+AB  - Due to the complicated nature of Parkinson disease (PD), a number of subjective considerations (eg, staging schemes, clinical assessment tools, or questionnaires) on how best to assess clinical deficits and monitor clinical progression have been published; however, none of these considerations include a comprehensive, objective assessment of all functional areas of neurocognition affected by PD (eg, motor, memory, speech, language, executive function, autonomic function, sensory function, behavior, and sleep). This paper highlights the increasing use of digital health technology (eg, smartphones, tablets, and wearable devices) for the classification, staging, and monitoring of PD. Furthermore, this Viewpoint proposes a foundation for a new staging schema that builds from multiple clinically implemented scales (eg, Hoehn and Yahr Scale and Berg Balance Scale) for ease and homogeneity, while also implementing digital health technology to expand current staging protocols. This proposed staging system foundation aims to provide an objective, symptom-specific assessment of all functional areas of neurocognition via inherent device capabilities (eg, device sensors and human-device interactions). As individuals with PD may manifest different symptoms at different times across the spectrum of neurocognition, the modernization of assessments that include objective, symptom-specific monitoring is imperative for providing personalized medicine and maintaining individual quality of life. ©John Michael Templeton, Christian Poellabauer, Sandra Schneider, Morteza Rahimi, Taofeek Braimoh, Fhaheem Tadamarry, Jason Margolesky, Shanna Burke, Zeina Al Masry.
+KW  - AI
+KW  - artificial intelligence
+KW  - digital health
+KW  - disease classification
+KW  - neurocognition
+KW  - Parkinson disease
+KW  - personalized medicine
+KW  - wearables
+KW  - Biomedical Technology
+KW  - Digital Health
+KW  - Digital Technology
+KW  - Humans
+KW  - Parkinson Disease
+KW  - Wearable Electronic Devices
+KW  - adult
+KW  - artificial intelligence
+KW  - Berg Balance Scale
+KW  - clinical assessment tool
+KW  - diagnosis
+KW  - digital health
+KW  - digital health technology
+KW  - disease classification
+KW  - executive function
+KW  - Hoehn and Yahr scale
+KW  - human
+KW  - Parkinson disease
+KW  - personalized medicine
+KW  - protocol
+KW  - quality of life
+KW  - questionnaire
+KW  - review
+KW  - sensor
+KW  - smartphone
+KW  - wearable device
+KW  - classification
+KW  - digital health
+KW  - digital technology
+KW  - medical technology
+KW  - pathophysiology
+KW  - wearable computer
+PB  - JMIR Publications Inc.
+SN  - 14388871 (ISSN)
+C2  - 40184612
+LA  - English
+J2  - J. Med. Internet Res.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 1; Correspondence Address: J.M. Templeton; Bellini College of Artificial Intelligence, Cybersecurity, and Computing, University of South Florida, Tampa, 4202 E Fowler Ave, 33620, United States; email: jtemplet@usf.edu
+ER  -
+
+TY  - JOUR
+AU  - Rezayi, S.
+AU  - Rahmani Katigari, M.
+AU  - Shahmoradi, L.
+AU  - Nilashi, M.
+TI  - Vulnerability of Parkinson's Patients to COVID-19 and Its Consequences and Effects on Them: A Systematic Review
+PY  - 2023
+T2  - Parkinson's Disease
+VL  - 2023
+C7  - 6272982
+DO  - 10.1155/2023/6272982
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159045039&doi=10.1155%2f2023%2f6272982&partnerID=40&md5=5e329cef1742ec07f249ecf9d261fa8b
+AD  - Health Information Management and Medical Informatics Department, School of Allied Medical Sciences, Tehran University of Medical Sciences, Tehran, Iran
+AD  - Health Information Technology Department, Saveh University of Medical Sciences, Saveh, Iran
+AD  - UCSI Graduate Business School, UCSI University, UCSI Heights, No. 1 Jalan Menara Gading, Cheras, Kuala Lumpur, 56000, Malaysia
+AB  - Introduction. Parkinson's disease (PD) is the second most common neurological disorder. Patients with PD were affected by the COVID-19 pandemic in many different ways. This study's principal purpose is to assess PD patients' vulnerability to COVID-19 and its consequences. Method. This systematic review was performed based on Preferred Reporting Items for Systematic Reviews and Meta-Analyzes (PRISMA) guidelines. A thorough search was conducted in the Medline (through PubMed) and Scopus databases from inception to January 30, 2022. The Joanna Briggs Institute (JBI) critical appraisal checklist was used to evaluate the studies. Results. Most of the studies (38%) had been conducted in Italy. Of the total number of studies, 17 (58%) were cross-sectional, seven (22%) were cohort, four (12%) were quasiexperimental, two (6%) were case-control, and one (3%) was a qualitative study. The PD duration in patients ranged from 3.26 to 13.40 years (IQR1: 5.7 yrs., median: 3.688 yrs., and IQR3: 8.815 yrs.). Meanwhile, the sample size ranged from 12 to 30872 participants (IQR1: 46, median: 96, and IQR3: 211). Despite worsening PD symptoms in the targeted population (persons with COVID-19 and Parkinson's disease), some studies found PD to be a risk factor for more severe COVID-19 disease. There are many adverse effects during the pandemic period in PD patients such as abnormalities of motor, nonmotor functioning, clinical outcomes, activities of daily living, and other outcomes. Conclusion. This study confirmed the negative effect of the COVID-19 pandemic on health-related quality of life and its determinants in patients with PD and their caregivers. Thus, due to the worsening symptoms of PD patients in the current pandemic, these people should be given more care and supervision to minimize their coronavirus exposure.  © 2023 Sorayya Rezayi et al.
+KW  - 12 item zarit burden inventory nonmotor symptom scale
+KW  - activity specifc balance confdence scale
+KW  - aged
+KW  - akinesia
+KW  - anorexia
+KW  - anxiety
+KW  - anxiety disorder
+KW  - attention
+KW  - balance disorder
+KW  - beck depression index
+KW  - Beck Depression Inventory
+KW  - behavior change
+KW  - body weight gain
+KW  - body weight loss
+KW  - bradykinesia
+KW  - caregiver
+KW  - caregiver burden caregiver burden inventory
+KW  - cause of death
+KW  - checklist
+KW  - clinical assessment
+KW  - clinical evaluation
+KW  - clinical examination
+KW  - clinical feature
+KW  - clinical impression of severity index for parkinson disease
+KW  - clinical outcome
+KW  - cognition
+KW  - cognitive defect
+KW  - comorbidity
+KW  - computer literacy
+KW  - coronavirus disease 2019
+KW  - coughing
+KW  - cross infection
+KW  - daily life activity
+KW  - data base
+KW  - dementia
+KW  - demographics
+KW  - depression
+KW  - diabetes mellitus
+KW  - disease course
+KW  - disease duration
+KW  - disease severity
+KW  - distress syndrome
+KW  - dyskinesia
+KW  - dystonia
+KW  - e-mail
+KW  - electronic medical record
+KW  - eligibility criteria
+KW  - epidemic
+KW  - exercise
+KW  - fall efcacy scale international
+KW  - falling
+KW  - fatigue
+KW  - fear
+KW  - female
+KW  - fever
+KW  - follow up
+KW  - foot
+KW  - freezing
+KW  - freezing of gait
+KW  - frigidity
+KW  - handwriting
+KW  - health care
+KW  - health survey
+KW  - high flow nasal cannula therapy
+KW  - hospital admission
+KW  - Hospital Anxiety and Depression Scale-Anxiety
+KW  - Hospital Anxiety and Depression Scale-Depression
+KW  - hospital discharge
+KW  - hospital patient
+KW  - hospitalization
+KW  - human
+KW  - hygiene
+KW  - hypertension
+KW  - hyposmia
+KW  - impact of event scale-revised
+KW  - in-hospital mortality
+KW  - infection risk
+KW  - information processing
+KW  - insomnia
+KW  - institutionalization
+KW  - intensive care
+KW  - international physical activity questionnaire short form
+KW  - irritability
+KW  - Kessler psychological distress scale
+KW  - learning
+KW  - length of stay
+KW  - lifestyle modification
+KW  - lockdown
+KW  - loneliness
+KW  - low income country
+KW  - male
+KW  - MDS-Unified Parkinson Disease Rating Scale
+KW  - medical care
+KW  - medical history
+KW  - medical record
+KW  - memory disorder
+KW  - mental component summary
+KW  - mental disease
+KW  - mental health
+KW  - mild cognitive impairment not associated with parkinson disease
+KW  - mood disorder
+KW  - morbidity
+KW  - mortality rate
+KW  - motivation
+KW  - motor dysfunction
+KW  - motor performance
+KW  - muscle weakness
+KW  - myalgia
+KW  - neuroimaging
+KW  - neurologic disease
+KW  - nonmotor symptom questionnaire
+KW  - outcome assessment
+KW  - pandemic
+KW  - Parkinson disease
+KW  - parkinson disease questionnaire
+KW  - parkinson disease with mild cognitive impairment
+KW  - parkinson disease with normal cognition
+KW  - parkinson well being map
+KW  - parkinsonism
+KW  - Patient Health Questionnaire 9
+KW  - patient worry
+KW  - personal experience
+KW  - Personality Disorder Questionnaire
+KW  - pharyngitis
+KW  - physical activity
+KW  - physical component summary
+KW  - physical disease by body function
+KW  - physical inactivity
+KW  - physiotherapy
+KW  - population
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - prevalence
+KW  - prognosis
+KW  - psychological aspect
+KW  - psychological well-being
+KW  - public health
+KW  - publication
+KW  - quality of life
+KW  - questionnaire
+KW  - rehabilitation care
+KW  - Review
+KW  - rigidity
+KW  - risk assessment
+KW  - risk factor
+KW  - sample size
+KW  - selection bias
+KW  - Severe acute respiratory syndrome coronavirus 2
+KW  - Short Form 8
+KW  - sleep disorder
+KW  - slowness
+KW  - social cognition
+KW  - social desirability
+KW  - social distancing
+KW  - social network
+KW  - social stress
+KW  - sociodemographics
+KW  - somnolence
+KW  - speech
+KW  - stuttering
+KW  - swallowing
+KW  - symptom
+KW  - symptomatology
+KW  - systematic review
+KW  - telehealth
+KW  - telemedicine
+KW  - telephone interview
+KW  - therapy
+KW  - thinking
+KW  - tremor
+KW  - Unified Parkinson Disease Rating Scale
+KW  - vulnerability
+KW  - walking
+PB  - Hindawi Limited
+SN  - 20420080 (ISSN)
+LA  - English
+J2  - Parkinson's Dis.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 2; Correspondence Address: L. Shahmoradi; Health Information Management and Medical Informatics Department, School of Allied Medical Sciences, Tehran University of Medical Sciences, Tehran, Iran; email: lshahmoradi@tums.ac.ir; M. Nilashi; UCSI Graduate Business School, UCSI University, UCSI Heights, Kuala Lumpur, No. 1 Jalan Menara Gading, Cheras, 56000, Malaysia; email: mehrbakhshnilashi@duytan.edu.vn
+ER  -
+
+TY  - JOUR
+AU  - Sharma, K.
+AU  - Shanbhog, M.
+AU  - Singh, K.
+TI  - Machine learning in neuroimaging and computational pathophysiology of Parkinson's disease: A comprehensive review and meta-analysis
+PY  - 2025
+T2  - Asian Journal of Psychiatry
+VL  - 109
+C7  - 104537
+DO  - 10.1016/j.ajp.2025.104537
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105005950001&doi=10.1016%2fj.ajp.2025.104537&partnerID=40&md5=3052c0eaabe9ee0ea4d0b82d53f99dc0
+AD  - Department of Computer Science, School of Sciences, Christ University, Delhi-NCR, 201003, India
+AB  - In recent years, machine learning and deep learning have shown potential for improving Parkinson's disease (PD) diagnosis, one of the most common neurodegenerative diseases. This comprehensive analysis examines machine learning and deep learning-based Parkinson's disease diagnosis using MRI, speech, and handwriting datasets. To thoroughly analyze PD, this study collected data from scientific literature, experimental investigations, publicly accessible datasets, and global health reports. This study examines the worldwide historical setting of Parkinson's disease, focusing on its increasing prevalence and inequities in treatment access across various regions. A comprehensive summary consolidates essential findings from clinical investigations and pertinent datasets related to Parkinson's disease management. The worldwide context, prospective treatments, therapies, and drugs for Parkinson's disease have been thoroughly examined. This analysis identifies significant research deficiencies and suggests future methods, emphasizing the necessity for more extensive and diverse datasets and improved model accessibility. The current study proposes the Meta-Park model for diagnosing Parkinson's disease, achieving training, testing, and validation accuracy of 97.67 %, 95 %, and 94.04 %. This method provides a dependable and scalable way to improve clinical decision-making in managing Parkinson's disease. This research seeks to provide innovative, data-driven decisions for early diagnosis and effective treatment by merging the proposed method with a thorough examination of existing interventions, providing renewed hope to patients and the medical community. © 2025 Elsevier B.V.
+KW  - Early diagnosis
+KW  - Meta-park model
+KW  - MRI
+KW  - Neurodegenerative disorders
+KW  - Parkinson's disease
+KW  - Deep Learning
+KW  - Humans
+KW  - Machine Learning
+KW  - Magnetic Resonance Imaging
+KW  - Neuroimaging
+KW  - Parkinson Disease
+KW  - dopamine
+KW  - neuromelanin
+KW  - access to treatment
+KW  - accuracy
+KW  - clinical decision making
+KW  - computational pathophysiology
+KW  - deep learning
+KW  - early diagnosis
+KW  - electroencephalogram
+KW  - handwriting
+KW  - human
+KW  - image segmentation
+KW  - least absolute shrinkage and selection operator
+KW  - machine learning
+KW  - machine learning algorithm
+KW  - meta analysis
+KW  - neuroimaging
+KW  - nuclear magnetic resonance imaging
+KW  - Parkinson disease
+KW  - pathophysiology
+KW  - positron emission tomography
+KW  - prevalence
+KW  - radiomics
+KW  - Review
+KW  - speech
+KW  - substantia nigra
+KW  - systematic review
+KW  - deep learning
+KW  - diagnosis
+KW  - diagnostic imaging
+KW  - pathophysiology
+KW  - procedures
+PB  - Elsevier B.V.
+SN  - 18762018 (ISSN)
+C2  - 40424835
+LA  - English
+J2  - Asian J. Psychiatry
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 26 August 2025; Cited By: 0; Correspondence Address: K. Singh; email: kuljeetshan94@gmail.com
+ER  -
+
