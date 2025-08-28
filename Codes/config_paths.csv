@@ -1,0 +1,5 @@
+﻿data,path
+Neurovoz_METADATA_FILE,D:\Datasets\Neurovoz_v3\data\metadata\metadata.csv
+Neurovoz_AUDIO_FOLDER,D:\Datasets\Neurovoz_v3\data\audios
+Neurovoz_BASE_PATH,D:\Datasets\Neurovoz_v3
+Neurovoz_MODIFIED_METADATA_FILE,D:\Datasets\Neurovoz_v3\data\metadata\metadata_modified.csv
